@@ -8,11 +8,11 @@
 
     - 1 corte passando pela escada
 
-    - uma fachada que não seja paralela aos eixos do UCS World
+    - uma fachada
 
     - uma planta de cobertura
 
-1. Os desenhos, a serem enviados em formato PDF, devem apresentar:
+2. Os desenhos, a serem enviados em formato PDF, devem apresentar:
 
     - Espessuras e hierarquia de traços conforme as regras de desenho técnico
 
