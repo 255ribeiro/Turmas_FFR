@@ -11,5 +11,3 @@
 [Edital AV1](./2023.1/CIMATEC/Represetacao_digital_da_construcao/av1_edital.md)
 
 
-
-
