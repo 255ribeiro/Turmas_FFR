@@ -7,18 +7,18 @@
 
 * 13/02 - seg - Apresentação do curso
 * 14/03 - ter - Conceito de BIM - terminologia definição e características
-* 27/02 - seg - 
-* 28/02 - ter - 
+* 27/02 - seg - Apresentação da AV1 - Níveis do BIM
+* 28/02 - ter - Informações no BIM - Documentos do BIM
 
 #### Março
 
 
-* 06/03 - seg - 
-* 07/03 - ter -
-* 13/03 - seg - 
-* 14/03 - ter -
-* 20/03 - seg (A1)
-* 21/03 - ter (A1) 
+* 06/03 - seg - Tipos de parâmetros
+* 07/03 - ter - Tipos de Parâmetros pt2
+* 13/03 - seg - Georreferenciamento
+* 14/03 - ter - 
+* 20/03 - seg (A1) -
+* 21/03 - ter (A1) - 
 * 27/03 - seg (A1) - Apresentação
 * 28/03 - ter (A1) - Apresentação
 
@@ -26,7 +26,7 @@
 
 #### Abril
 
-* 03/04 - seg - 
+* 03/04 - seg - IFC
 * 04/04 - ter -
 * 10/04 - seg - 
 * 11/04 - ter - 
@@ -41,7 +41,7 @@
 * 02/05 - ter (A2) - revisão
 * 08/05 - seg (A2) - revisão
 * 09/05 - ter (A2) - Entrega via Canvas
-* 15/05 - seg - 
+* 15/05 - seg - NavisWorks
 * 16/05 - ter -
 * 22/05 - seg - 
 * 23/05 - ter - 
