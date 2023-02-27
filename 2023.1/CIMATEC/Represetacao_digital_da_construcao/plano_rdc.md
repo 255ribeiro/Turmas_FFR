@@ -26,8 +26,8 @@
 #### Abril
 
 * 03/04 - seg - Revit interface - configuração das unidades
-* 06/04 - qui (Semana Santa)
-* 10/04 - seg - Paredes: Desenho e configuração
+* 06/04 - qui (Semana Santa) Paredes: Desenho e configuração
+* 10/04 - seg - Paredes: Paredes cortina
 * 13/04 - qui - Janelas e portas
 * 17/04 - seg - Terreno plano, lajes e plataformas de construção
 * 20/04 - qui - Coberturas
