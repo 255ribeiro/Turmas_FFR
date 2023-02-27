@@ -33,4 +33,4 @@
 
 [Planta Baixa térreo](./EP_DIG_CONS/PROJ_Exemplo_V2-pav_terreo.pdf)
 
-[Planta Baixa pav. sup.](./EP_DIG_CONS/PROJ_Exemplo_V2-pav_sup.pdf)
+[Planta Baixa pavimento superior](./EP_DIG_CONS/PROJ_Exemplo_V2-pav_sup.pdf)
