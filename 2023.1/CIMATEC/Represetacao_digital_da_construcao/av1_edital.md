@@ -31,6 +31,6 @@
 
 #### Arquivos
 
-[Planta Baixa térreo](./EP_DIG_CONS/PROJ_Exemplo-pav_terreo.pdf)
+[Planta Baixa térreo](./EP_DIG_CONS/PROJ_Exemplo_V2-pav_terreo.pdf)
 
-[Planta Baixa pav. sup.](./EP_DIG_CONS/PROJ_Exemplo-pav_sup.pdf)
+[Planta Baixa pav. sup.](./EP_DIG_CONS/PROJ_Exemplo_V2-pav_sup.pdf)
