@@ -45,3 +45,20 @@
 
 #### Guia de layers
 
+##### Térreo
+
+[Planta técnica]()
+
+[planta cores]()
+
+##### Pav. Superior
+
+[Planta técnica]()
+
+[planta cores]()
+
+##### Corte BB
+
+[Planta técnica]()
+
+[planta cores]()
