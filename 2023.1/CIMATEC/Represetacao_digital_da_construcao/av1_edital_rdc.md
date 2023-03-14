@@ -39,6 +39,17 @@
 
 [Corte BB](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-cortebb.pdf)
 
+
+[FACHADA SUL](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_sul.pdf)
+
+[FACHADA LESTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_leste.pdf)
+
+[FACHADA NORTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_norte.pdf)
+
+[FACHADA OESTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_oeste.pdf)
+
+[COBERTURA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-cobertura.pdf)
+
 #### Template
 
 [template](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/template_01.dwt)
