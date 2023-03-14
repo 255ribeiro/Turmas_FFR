@@ -28,6 +28,10 @@
 
 ### Os prazos devem ser consultados no cronograma da disciplina.
 
+----------------------------
+
+----------------------------
+
 
 #### Arquivos
 
@@ -50,9 +54,19 @@
 
 [COBERTURA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-cobertura.pdf)
 
+
+-------------------------------
+
+-----------------------------
+
 #### Template
 
 [template](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/template_01.dwt)
+
+-----------------------------------
+
+----------------------------------
+
 
 #### Guia de layers
 
@@ -73,3 +87,9 @@
 [Planta técnica](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/Guia_de_layers-cortebb.pdf)
 
 [planta cores](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/Guia_de_layers-cortebb_cores.pdf)
+
+
+
+--------------------------------------
+
+--------------------------------------
