@@ -7,20 +7,20 @@
 
 * 13/02 - seg - Apresentação do curso
 * 15/03 - qua - Exibição documentário - debate
-* 27/02 - seg - 
+* 27/02 - seg - Apresentação da interface do Rhino3D
 
 
 #### Março
 
-* 01/03 - qua -
-* 06/03 - seg - 
-* 08/03 - qua -
-* 13/03 - seg - 
-* 15/03 - qua -
-* 20/03 - seg (A1)
-* 22/03 - qua (A1) 
-* 27/03 - seg (A1) - 
-* 29/03 - qua (A1) - Entrega
+* 01/03 - qua - Comandos básicos de desenho e modelagem parte 1
+* 06/03 - seg - Comandos básicos de desenho e modelagem parte 2
+* 08/03 - qua - Exercíco de modelagem orgânica pt2
+* 13/03 - seg - Exercíco de modelagem orgânica pt2
+* 15/03 - qua - Exercíco de modelagem geométrica
+* 20/03 - seg (A1) - Exercíco de modelagem geométrica
+* 22/03 - qua (A1) - Introdução ao Grasshopper - interface - exercício sequência de pilares
+* 27/03 - seg (A1) - Listas - manipulação de listas. 
+* 29/03 - qua (A1) - Entrega do AV1 - Listas e malhas de pilares
 
   
 
