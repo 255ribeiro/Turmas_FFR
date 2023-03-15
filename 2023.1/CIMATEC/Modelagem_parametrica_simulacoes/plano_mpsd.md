@@ -26,8 +26,8 @@
 
 #### Abril
 
-* 03/04 - seg - 
-* 05/04 - qua -
+* 03/04 - seg - Torres de múltiplos pavimentos
+* 05/04 - qua - 
 * 10/04 - seg - 
 * 12/04 - qua - 
 * 17/04 - seg - 
