@@ -40,7 +40,7 @@
 
 * 03/05 - qua (A2) - revisão/orientação
 * 08/05 - seg (A2) - revisão/orientação
-* 10/05 - qua (A2) - Entrega via Canvas
+* 10/05 - qua (A2) - Entrega via Canvas - revisão/orientação
 * 15/05 - seg - painelização pt 1
 * 17/05 - qua - painelização pt 2
 * 22/05 - seg - 
