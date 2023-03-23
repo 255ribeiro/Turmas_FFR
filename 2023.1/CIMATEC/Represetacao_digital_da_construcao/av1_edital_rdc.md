@@ -65,9 +65,9 @@
 
 [CTB](./REP_DIG_CONS/info_01.ctb)
 
-[FORMATOS](./REP_DIG_CONS/FORMATOS.dwg)
+[FORMATOS](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/FORMATOS.dwg)
 
-[BLOCOS EXTRA](./REP_DIG_CONS/blocos_extras.dwg)
+[BLOCOS EXTRA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/blocos_extras.dwg)
 
 
 ---------------------------------
