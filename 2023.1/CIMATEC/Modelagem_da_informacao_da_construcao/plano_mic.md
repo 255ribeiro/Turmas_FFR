@@ -13,12 +13,12 @@
 #### Março
 
 
-* 06/03 - seg - Tipos de parâmetros
-* 07/03 - ter - Tipos de Parâmetros pt2
-* 13/03 - seg - Georreferenciamento
-* 14/03 - ter - 
-* 20/03 - seg (A1) -
-* 21/03 - ter (A1) - 
+* 06/03 - seg - Interoperabilidade e BIM
+* 07/03 - ter - Níveis de maturidade do BIM
+* 13/03 - seg - Tipos de Parâmetros do Revit
+* 14/03 - ter - Parâmetros de tipo, Família e instância
+* 20/03 - seg (A1) - Parâmetros compartilhados pt 1
+* 21/03 - ter (A1) - Parâmetros compartilhados pt 2
 * 27/03 - seg (A1) - Apresentação
 * 28/03 - ter (A1) - Apresentação
 
@@ -26,22 +26,22 @@
 
 #### Abril
 
-* 03/04 - seg - IFC
-* 04/04 - ter -
-* 10/04 - seg - 
-* 11/04 - ter - 
-* 17/04 - seg - 
-* 18/04 - ter -
-* 24/04 - seg -
-* 25/04 - ter -
+* 03/04 - seg - Debate sobre as apresentações
+* 04/04 - ter - BimCollab - Apresentação da interface
+* 10/04 - seg - IFC - fontes de informação - Documentação oficial
+* 11/04 - ter - IFC - exportando do revit
+* 17/04 - seg - IFC - exportando do revit
+* 18/04 - ter - IFC - exportando do revit
+* 24/04 - seg - IFC - exportando do revit
+* 25/04 - ter - IFC - exportando do revit
 
 
 #### Maio
 
-* 02/05 - ter (A2) - revisão
-* 08/05 - seg (A2) - revisão
-* 09/05 - ter (A2) - Entrega via Canvas
-* 15/05 - seg - NavisWorks
+* 02/05 - ter (A2) - revisão - orientação dos trabalhos
+* 08/05 - seg (A2) - revisão - orientação dos trabalhos
+* 09/05 - ter (A2) - revisão - orientação dos trabalhos
+* 15/05 - seg - NavisWorks 
 * 16/05 - ter -
 * 22/05 - seg - 
 * 23/05 - ter - 
