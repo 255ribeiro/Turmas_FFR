@@ -5,9 +5,10 @@
 
 #### Fevereiro
 
-* 09/02 - qui - recepção dos alunos -apresentação do curso
+* 09/02 - qui - recepção dos alunos - apresentação do curso
 * 13/02 - seg - Interface do Autocad
-* 23/02 - qui - desenho por coordenadas
+* 16/02 - qui - desenho por coordenadas
+* 23/02 - qui - Comandos de criação e edição
 * 27/02 - seg - Comandos de criação e edição
 
 #### Março
@@ -18,7 +19,7 @@
 * 13/03 - seg - Exercício casa - Fachada
 * 16/03 - qui - Dimensões, Cotas e Textos
 * 20/03 - seg (A1) - Layout e impressão
-* 23/03 - qui (A1) - Revisão
+* 23/03 - qui (A1) - Revisão - orientação
 * 27/03 - seg (A1) - Entrega via Canvas
 * 30/03 - qui (A1) - Aula expositiva CAD x BIM
   
