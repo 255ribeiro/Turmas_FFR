@@ -58,9 +58,10 @@ Um projeto de dois pavimentos desenvolvido em 3 arquivos do Revit:
 
 Um arquivo .ZIP contendo:
 
-    1. Os arquivos originais do Revit
-    2. Os arquivos IFC exportados
-    3. O arquivo de projeto do BimCollab (ou do programa de verificação do IFC utilizado)
-    4. Opcionalmente pode-se enviar um arquivo de texto com explicações sobre as informações craidas e exportadas
-    5. Os arquivos devem ter uma organização de pastas definida pelo grupo.
+  1. Os arquivos originais do Revit
+  2. Os arquivos IFC exportados
+  3. O arquivo de projeto do BimCollab (ou do programa de verificação do IFC utilizado)
+  4. Opcionalmente pode-se enviar um arquivo de texto com explicações sobre as informações craidas e exportadas
+  5. Os arquivos devem ter uma organização de pastas definida pelo grupo.
 
+#### A data de entrega deve ser cosultada no cronograma da disciplina
