@@ -26,6 +26,8 @@
 
 #### Abril
 
+
+
 * 03/04 - seg - Debate sobre as apresentações
 * 04/04 - ter - BimCollab - Apresentação da interface
 * 10/04 - seg - IFC - fontes de informação - Documentação oficial
