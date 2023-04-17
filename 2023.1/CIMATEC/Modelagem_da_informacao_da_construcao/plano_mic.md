@@ -43,7 +43,7 @@
 * 02/05 - ter (A2) - revisão - orientação dos trabalhos
 * 08/05 - seg (A2) - revisão - orientação dos trabalhos
 * 09/05 - ter (A2) - revisão - orientação dos trabalhos
-* 13/05 - Sab (sem aula) - Entrega do [Av2](./av2_edital_mic.md)
+* 13/05 - sab (sem aula) - Entrega do [Av2](./av2_edital_mic.md)
 * 15/05 - seg - Interface Navisworks 
 * 16/05 - ter - Interface Navisworks 
 * 22/05 - seg - Quantitativos
