@@ -19,6 +19,7 @@
 [Plano de curso](./2023.1/CIMATEC/Modelagem_da_informacao_da_construcao/plano_mic.md)
 
 [Edital AV1](./2023.1/CIMATEC/Modelagem_da_informacao_da_construcao/av1_edital_mic.md)
+
 [Edital AV2](./2023.1/CIMATEC/Modelagem_da_informacao_da_construcao/av2_edital_mic.md)
 
 
