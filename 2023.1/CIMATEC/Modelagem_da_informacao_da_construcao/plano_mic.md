@@ -41,19 +41,19 @@
 * 02/05 - ter (A2) - revisão - orientação dos trabalhos
 * 08/05 - seg (A2) - revisão - orientação dos trabalhos
 * 09/05 - ter (A2) - revisão - orientação dos trabalhos
-* 15/05 - seg - NavisWorks 
-* 16/05 - ter -
-* 22/05 - seg - 
-* 23/05 - ter - 
-* 29/05 - seg -
-* 30/05 - ter -
+* 15/05 - seg - Interface Navisworks 
+* 16/05 - ter - Interface Navisworks 
+* 22/05 - seg - Quantitativos
+* 23/05 - ter - Quantitativos
+* 29/05 - seg - Quantitativos
+* 30/05 - ter - Quantitativos
   
 #### Junho
 
 
-* 05/06 - seg -
-* 06/06 - ter -
-* 12/06 - seg -
-* 13/06 - ter -
-* 19/06 - seg (A3) - 
+* 05/06 - seg - Clash detection
+* 06/06 - ter - Clash detection
+* 12/06 - seg - Clash detection
+* 13/06 - ter - Clash detection
+* 19/06 - seg (A3) - Revisão - Orientação
 * 20/06 - ter (A3) - Entrega via Canvas
