@@ -64,4 +64,4 @@ Um arquivo .ZIP contendo:
   4. Opcionalmente pode-se enviar um arquivo de texto com explicações sobre as informações craidas e exportadas
   5. Os arquivos devem ter uma organização de pastas definida pelo grupo.
 
-#### A data de entrega deve ser cosultada no cronograma da disciplina
+#### A data de entrega deve ser consultada no cronograma da disciplina
