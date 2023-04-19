@@ -43,17 +43,17 @@
 * 10/05 - qua (A2) - revisão/orientação
 * 13/05 - Sab (A2) - Entrega do AV2 via canvas [ver edital](av2_edital_mpsd.md)
 * 15/05 - seg - Apresentação dos algoritmos da AV2 para os alunos
-* 17/05 - qua - Básico de formfinding com Kagaroo Phisics
+* 17/05 - qua - Básico de formfinding com Kangaroo Physics
 * 22/05 - seg - Apresentação do Elifront
 * 24/05 - qua - Interoperabilidade - Rhino Inside Revit
-* 29/05 - seg - Interoperabilidade - Rhino Inside Revit
-* 31/05 - qua - Interoperabilidade - Rhino Archicad connect
+* 29/05 - seg - Interoperabilidade - Rhino Archicad connect
+* 31/05 - qua - revisão/orientação 
 #### Junho
 
 
-* 05/06 - seg - Interoperabilidade - Rhino Archicad connect
+* 05/06 - seg - revisão/orientação
 * 07/06 - qua - Básico do Ladybug tools
 * 12/06 - seg - revisão/orientação
-* 14/06 - qua -revisão/orientação
+* 14/06 - qua - revisão/orientação
 * 19/06 - seg (A3) - revisão/orientação
 * 21/06 - qua (A3) - Entrega via Canvas
