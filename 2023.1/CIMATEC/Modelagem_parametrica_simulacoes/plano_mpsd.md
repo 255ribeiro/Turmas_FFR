@@ -47,7 +47,7 @@
 * 22/05 - seg - Apresentação do Elifront
 * 24/05 - qua - Interoperabilidade - Rhino Inside Revit
 * 29/05 - seg - Interoperabilidade - Rhino Archicad connect
-* 31/05 - qua - revisão/orientação 
+* 31/05 - qua - Interoperabilidade - Rhino Inside Autocad 
 #### Junho
 
 
