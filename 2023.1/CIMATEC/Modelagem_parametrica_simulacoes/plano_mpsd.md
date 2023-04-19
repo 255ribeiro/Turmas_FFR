@@ -41,20 +41,19 @@
 * 03/05 - qua (A2) - revisão/orientação
 * 08/05 - seg (A2) - revisão/orientação
 * 10/05 - qua (A2) - revisão/orientação
-* 13/05 - Sab (A2) - entrega do AV2 via canvas
-* 15/05 - seg - painelização pt 1
-* 17/05 - qua - painelização pt 2
-* 22/05 - seg - 
-* 24/05 - qua - 
-* 29/05 - seg -
-* 31/05 - qua -
-  
+* 13/05 - Sab (A2) - Entrega do AV2 via canvas
+* 15/05 - seg - Apresentação dos algoritmos da av2 para os alunos
+* 17/05 - qua - Básico de formfinding com Kagaroo Phisics
+* 22/05 - seg - Apresentação do Elifront
+* 24/05 - qua - Interoperabilidade - Rhino Inside Revit
+* 29/05 - seg - Interoperabilidade - Rhino Inside Revit
+* 31/05 - qua - Interoperabilidade - Rhino Archicad connect
 #### Junho
 
 
-* 05/06 - seg -
-* 07/06 - qua -
-* 12/06 - seg -
-* 14/06 - qua -
-* 19/06 - seg (A3) - 
+* 05/06 - seg - Interoperabilidade - Rhino Archicad connect
+* 07/06 - qua - Básico do Ladybug tools
+* 12/06 - seg - revisão/orientação
+* 14/06 - qua -revisão/orientação
+* 19/06 - seg (A3) - revisão/orientação
 * 21/06 - qua (A3) - Entrega via Canvas
