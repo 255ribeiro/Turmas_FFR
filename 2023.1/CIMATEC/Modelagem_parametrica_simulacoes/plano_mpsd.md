@@ -41,8 +41,8 @@
 * 03/05 - qua (A2) - revisão/orientação
 * 08/05 - seg (A2) - revisão/orientação
 * 10/05 - qua (A2) - revisão/orientação
-* 13/05 - Sab (A2) - Entrega do AV2 via canvas
-* 15/05 - seg - Apresentação dos algoritmos da av2 para os alunos
+* 13/05 - Sab (A2) - Entrega do AV2 via canvas [ver edital](av2_edital_mpsd.md)
+* 15/05 - seg - Apresentação dos algoritmos da AV2 para os alunos
 * 17/05 - qua - Básico de formfinding com Kagaroo Phisics
 * 22/05 - seg - Apresentação do Elifront
 * 24/05 - qua - Interoperabilidade - Rhino Inside Revit
