@@ -31,8 +31,8 @@
 * 10/04 - seg - attractors - pt2
 * 12/04 - qua - Torres de múltiplos pavimentos - introdução ás árvores de dados pt 1
 * 17/04 - seg - Torres de múltiplos pavimentos - introdução ás árvores de dados pt 2
-* 19/04 - qua - Form finding pt 1
-* 24/04 - seg - Form finding pt 2
+* 19/04 - qua - revisão/orientação
+* 24/04 - seg - revisão/orientação
 * 26/04 - qua - revisão/orientação
 
 
@@ -40,7 +40,8 @@
 
 * 03/05 - qua (A2) - revisão/orientação
 * 08/05 - seg (A2) - revisão/orientação
-* 10/05 - qua (A2) - Entrega via Canvas - revisão/orientação
+* 10/05 - qua (A2) - revisão/orientação
+* 13/05 - Sab (A2) - entrega do AV2 via canvas
 * 15/05 - seg - painelização pt 1
 * 17/05 - qua - painelização pt 2
 * 22/05 - seg - 
