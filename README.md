@@ -28,3 +28,12 @@
 [Plano de curso](./2023.1/CIMATEC/Modelagem_parametrica_simulacoes/plano_mpsd.md)
 
 [Edital AV1](./2023.1/CIMATEC/Modelagem_parametrica_simulacoes/av1_edital_mpsd.md)
+
+
+### UFBA
+
+#### Informática e Desenho 1
+
+[Edital AV1](./2023.1/UFBA/info_01/Editais/edital_casa_y.md)
+
+[Edital AV2](./2023.1/UFBA/info_01/Editais/edital_3d.md)
