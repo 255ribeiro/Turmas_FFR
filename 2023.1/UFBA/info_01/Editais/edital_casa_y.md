@@ -26,9 +26,9 @@ Desenho técnico 2D com instrumentos computacionais.
 
     - uma escada para o pavimento superior
 
-1. O projeto deve ser implantado em um terreno com curvas de nível.
+<!-- 1. O projeto deve ser implantado em um terreno com curvas de nível.
     
-    - Pode-se usar uma das bases de levantamento de Salvador: [Exemplo](../Terreno_topografia/terreno_exemplos.zip)
+    - Pode-se usar uma das bases de levantamento de Salvador: [Exemplo](../Terreno_topografia/terreno_exemplos.zip) -->
   
 1. Todos estes espaços devem estar contidos no contorno fornecido podendo estar fora do contorno apenas: pátios, varandas, beirais, pergolados e outras áreas abertas.
 
