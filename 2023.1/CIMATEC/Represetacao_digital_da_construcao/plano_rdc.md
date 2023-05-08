@@ -39,7 +39,8 @@
 
 * 04/05 - qui (A2) - revisão
 * 08/05 - seg (A2) - revisão
-* 11/05 - qui (A2) - entrega via Canvas
+* 11/05 - qui (A2) - revisão
+* 13/05 - sab (A2) - entrega via canvas da [avaliação Av2](./av2_edital_rdc.md)
 * 15/05 - seg - Inserção de blocos de móveis e hidro-sanitários
 * 18/05 - qui - Materiais e hachuras
 * 22/05 - seg - Margem e carimbo Plantas títulos e escalas
