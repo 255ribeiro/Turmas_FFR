@@ -13,6 +13,10 @@
 
 [Edital AV1](./2023.1/CIMATEC/Represetacao_digital_da_construcao/av1_edital_rdc.md)
 
+[Edital AV2](./2023.1/CIMATEC/Represetacao_digital_da_construcao/av2_edital_rdc.md)
+
+[Edital AV3](./2023.1/CIMATEC/Represetacao_digital_da_construcao/av3_edital_rdc.md)
+
 
 #### Modelagem da Informação da Construção
 

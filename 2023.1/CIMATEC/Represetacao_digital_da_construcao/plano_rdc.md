@@ -55,3 +55,4 @@
 * 15/06 - qui (A3) - Revisão
 * 19/06 - seg (A3) - Revisão
 * 22/06 - qui (A3) - Entrega via Canvas
+* 26/06 - seg (A3) - entrega do edital [Av3](./av3_edital_rdc.md)
