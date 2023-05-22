@@ -27,8 +27,6 @@
 
     - indicação de corte e fachada nas plantas
 
-    - blocos para mostrar os layouts dos ambientes
-
 
 ### Os prazos devem ser consultados no cronograma da disciplina.
 
