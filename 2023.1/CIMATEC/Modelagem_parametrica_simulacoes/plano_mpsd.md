@@ -57,3 +57,4 @@
 * 14/06 - qua - revisão/orientação
 * 19/06 - seg (A3) - revisão/orientação
 * 21/06 - qua (A3) - Entrega via Canvas
+* 26/06 - seg (A3) - Entrega via Canvas do [AV3](av3_edital_mpsd.md)
