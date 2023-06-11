@@ -33,10 +33,10 @@ Devem-se usar os arquivos de exemplo disponíveis [aqui](./Sample.zip)
 #### Relatório 01
 
 1. Crie grupos de *clashes* de acordo com o elemento estrutural que foi detectado.
-   1. Os *clashes* que encontrarem colunas, vigas ou elementos de fundação devem ser atribuídos ao grupo MEP
+   1. Os *clashes* que encontrarem colunas, vigas ou elementos de fundação devem ser atribuídos ao grupo de trabalho MEP
    2. Os *clashes* que paredes estruturais devem ser atribuídos ao grupo STR
-   3. Os *clashes* que encontrarem *limestone walls* deve ser atribuídos ao grupo ARQ
-   4. Caso Aparecem clashes entre lajes, elas deve ser aprovadas
+   3. Os *clashes* que encontrarem *limestone walls* deve ser atribuídos ao grupo de trabalho ARQ
+   4. Caso Aparecem clashes entre lajes, elas deve ser marcados como *Resolved*
    
 2. Gere um relatório em formato html
 3. exporte as configurações de clash em formato .xml
@@ -50,7 +50,8 @@ Devem-se usar os arquivos de exemplo disponíveis [aqui](./Sample.zip)
    2. OS elementos do arquivo Heating and Plumbimg 
  
 #### Relatório 02
-  
+Atribua os *clashes* do arquivo Ventilation ao grupo de trabalho VEN
+Atribua os *clashes* do arquivo Heating and Plumbimg ao grupo de trabalho HaP
 1. Gere um relatório em formato html para cada teste
 2. exporte as configurações de clash em formato .xml para cada teste
 
