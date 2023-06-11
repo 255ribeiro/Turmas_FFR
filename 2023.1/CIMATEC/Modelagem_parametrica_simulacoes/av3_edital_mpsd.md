@@ -1,6 +1,8 @@
 # Edital Avaliação 03
 
-## Interoperabilidade: Os discentes devem transpor um volume (ou conjunto de volumes) gerados no Rhino/Grasshopper para uma ferramenta de autoria BIM de sua escolha (Revit, Archicad, Vectorworks, Bricscad Bim, Freecad,   )
+## Interoperabilidade: 
+
+### Os discentes devem transpor um volume (ou conjunto de volumes) gerados no Rhino/Grasshopper para uma ferramenta de autoria BIM de sua escolha (Revit, Archicad, Vectorworks, Bricscad Bim, Freecad,  etc)
 
 1. O jogo de plantas deve conter no mínimo:
 

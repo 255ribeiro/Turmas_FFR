@@ -1,6 +1,6 @@
 # Edital Avaliação 03
 
-## Os alunos devem gerar as plantas técnicas do modelo 3D eladorado e entregue no edital AV2 
+## Os alunos devem gerar as plantas técnicas do modelo 3D elaborado e entregue no edital AV2 
 
 1. O jogo de plantas deve conter no mínimo:
 

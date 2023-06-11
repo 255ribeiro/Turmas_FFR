@@ -59,4 +59,4 @@
 * 12/06 - seg - Clash detection
 * 13/06 - ter - Clash detection
 * 19/06 - seg (A3) - Revisão - Orientação
-* 20/06 - ter (A3) - Entrega via Canvas
+* 20/06 - ter (A3) - Entrega via Canvas edital [AV3](av3_edital_mic.md)
