@@ -14,7 +14,7 @@ Podendo ser a mesma equipe do trabalho anterior
 
 #### Arquivos para o teste
 
-Devem-se usar os arquivos de exemplo disponíveis [aqui](./Sample.zip)
+Serão usados os arquivos de exemplo disponíveis [aqui](./Sample.zip) ou [aqui](https://download.bimcollab.com/support/ZOOM/Sample.zip)
 
 ##### Preparando o Navisworks
 1. Crie um arquivo do Navisworks .nwf Com o nome da sua equipe
