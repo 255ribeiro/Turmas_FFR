@@ -43,6 +43,7 @@ Serão usados os arquivos de exemplo disponíveis [aqui](./Sample.zip) ou [aqui]
 1. Gere um relatório em formato .xml
 
 
+
 ##### Configurações do Teste de clash 2
 1. Crie um teste de *clash* entre (clash 2a):
    1. Os elementos do arquivo de estrutura
@@ -59,6 +60,9 @@ Serão usados os arquivos de exemplo disponíveis [aqui](./Sample.zip) ou [aqui]
 1. Gere os relatórios em formato html
 1. Gere os relatórios em formato .xml
 
+#### IMPORTANTE
+
+OS RELATÓRIOS DEVEM APRESENTAR TODOS OS CLASHES (NÃO APENAS O RESUMO POR GRUPO)
 
 #### Produtos a serem entregues:
 
