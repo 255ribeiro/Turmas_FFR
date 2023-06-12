@@ -18,7 +18,7 @@ Serão usados os arquivos de exemplo disponíveis [aqui](./Sample.zip) ou [aqui]
 
 ##### Preparando o Navisworks
 1. Crie um arquivo do Navisworks .nwf Com o nome da sua equipe
-1. Importe os arquivos os 3 arquivos da pasta design no seu projeto
+2. Importe os 3 arquivos da pasta design no seu projeto
    1. Caso o Navisworks não seja capaz de abrir o formato, pesquise uma alternativa.
    2. É possível que o arquivo de MEP apareça com uma rotação diferente dos demais modelos. Pesquise uma maneira de corrigir isso com transformações.
 
@@ -37,23 +37,27 @@ Serão usados os arquivos de exemplo disponíveis [aqui](./Sample.zip) ou [aqui]
    2. Os *clashes* que paredes estruturais devem ser atribuídos ao grupo STR
    3. Os *clashes* que encontrarem *limestone walls* deve ser atribuídos ao grupo de trabalho ARQ
    4. Caso Aparecem clashes entre lajes, elas deve ser marcados como *Resolved*
-   
-2. Gere um relatório em formato html
-3. exporte as configurações de clash em formato .xml
+
+1. Exporte as configurações de clash em formato .xml  
+1. Gere um relatório em formato html
+1. Gere um relatório em formato .xml
+
 
 ##### Configurações do Teste de clash 2
-1. Crie um teste de *clash* entre:
+1. Crie um teste de *clash* entre (clash 2a):
    1. Os elementos do arquivo de estrutura
    2. OS elementos do arquivo Ventilation
-1. Crie um teste de *clash* entre:
+1. Crie um teste de *clash* entre (clash 2b):
    1. Os elementos do arquivo de estrutura
    2. OS elementos do arquivo Heating and Plumbimg 
  
 #### Relatório 02
-Atribua os *clashes* do arquivo Ventilation ao grupo de trabalho VEN
-Atribua os *clashes* do arquivo Heating and Plumbimg ao grupo de trabalho HaP
-1. Gere um relatório em formato html para cada teste
-2. exporte as configurações de clash em formato .xml para cada teste
+
+1. Atribua os *clashes* do arquivo Ventilation ao grupo de trabalho VEN
+1. Atribua os *clashes* do arquivo Heating and Plumbimg ao grupo de trabalho HaP
+1. Exporte as configurações dos clashes em formato .xml  
+1. Gere os relatórios em formato html
+1. Gere os relatórios em formato .xml
 
 
 #### Produtos a serem entregues:
