@@ -25,10 +25,8 @@
 6. as datas da apresentação são:
    
 
-   * 27/03 - seg (A1) - Apresentação
-
-
-   * 28/03 - ter (A1) - Apresentação
+* 18/09 - seg - (A1) - Apresentação
+* 20/09 - qua - (A1) - Apresentação
 
 
 7. O material usado na apresentação deve ser publicado em tarefa no Canvas da disciplina.
