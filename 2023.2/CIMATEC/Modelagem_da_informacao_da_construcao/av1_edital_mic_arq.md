@@ -2,7 +2,7 @@
 
 ## Edital da AV1
 
-### Atividade em equipe ( 3 ou 4 membros)
+### Atividade em equipe ( 4 ou 5 membros)
 
 1. Escolher um dos artigos previamente selecionados pelo professor.
 
