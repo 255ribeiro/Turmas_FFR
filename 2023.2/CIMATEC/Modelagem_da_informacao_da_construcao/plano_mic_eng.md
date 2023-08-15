@@ -21,8 +21,8 @@
 * 07/09 - qui - (A1) - IFC - Estrutura do Arquivo
 * 12/09 - ter - (A1) - IFC - Estrutura do Arquivo
 * 14/09 - qui - (A1) - IDS e BSDD 
-* 19/09 - ter - (A1) - Apresentação - [edital](./av1_edital_mic_arq.md)
-* 21/09 - qui - (A1) - Apresentação - [edital](./av1_edital_mic_arq.md)
+* 19/09 - ter - (A1) - Apresentação - [edital](./av1_edital_mic_eng.md)
+* 21/09 - qui - (A1) - Apresentação - [edital](./av1_edital_mic_eng.md)
 * 26/09 - ter - Debate sobre as apresentações
 * 28/09 - qui - BimCollab - Apresentação da interface
 * 
