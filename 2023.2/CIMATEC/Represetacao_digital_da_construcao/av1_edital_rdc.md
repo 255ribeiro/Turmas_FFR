@@ -12,7 +12,7 @@
 
     - uma planta de cobertura
 
-2. Os desenhos, a serem enviados em formato PDF, devem apresentar:
+2. Os desenhos, a serem enviados em formato PDF e DWG devem apresentar:
 
     - Espessuras e hierarquia de traços conforme as regras de desenho técnico
 
@@ -26,7 +26,12 @@
 
     - blocos para mostrar os layouts dos ambientes
 
-### Os prazos devem ser consultados no cronograma da disciplina.
+### O envio deve ser feito em arquivo compactado (ZIP, RAR, TAR.GZ ou 7Z) contendo:
+    - Arquivos DWG com os desenhos.
+    - Arquivos PDF com os desenhos.
+    - Arquivo CTB utilizado.
+
+#### Os prazos devem ser consultados no cronograma da disciplina.
 
 ----------------------------
 
@@ -35,24 +40,24 @@
 
 #### Arquivos
 
-[Planta Baixa térreo](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-pav_terreo.pdf)
+[Planta Baixa térreo](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-pav_terreo.pdf)
 
-[Planta Baixa pavimento superior](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-pav_sup.pdf)
+[Planta Baixa pavimento superior](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-pav_sup.pdf)
 
-[Corte AA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-corteaa.pdf)
+[Corte AA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-corteaa.pdf)
 
-[Corte BB](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-cortebb.pdf)
+[Corte BB](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-cortebb.pdf)
 
 
-[FACHADA SUL](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_sul.pdf)
+[FACHADA SUL](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_sul.pdf)
 
-[FACHADA LESTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_leste.pdf)
+[FACHADA LESTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_leste.pdf)
 
-[FACHADA NORTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_norte.pdf)
+[FACHADA NORTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_norte.pdf)
 
-[FACHADA OESTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_oeste.pdf)
+[FACHADA OESTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_oeste.pdf)
 
-[COBERTURA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-cobertura.pdf)
+[COBERTURA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-cobertura.pdf)
 
 
 -------------------------------
@@ -61,13 +66,11 @@
 
 #### Templates e arquivos auxiliares
 
-[template](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/template_01.dwt)
+[template](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/template_01.dwt)
 
-[CTB](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/info_01.ctb)
+[CTB](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/info_01.ctb)
 
-[FORMATOS](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/FORMATOS.dwg)
-
-[BLOCOS EXTRA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.1/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/blocos_extras.dwg)
+[FORMATOS](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/FORMATOS.dwg)
 
 
 ---------------------------------
