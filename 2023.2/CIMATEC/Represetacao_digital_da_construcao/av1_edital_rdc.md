@@ -6,9 +6,9 @@
 
     - Planta Baixa dos 2 pavimentos
 
-    - 1 corte passando pela escada
+    - 2 cortes - um deles passando pela escada
 
-    - uma fachada
+    - Duas fachadas
 
     - uma planta de cobertura
 
