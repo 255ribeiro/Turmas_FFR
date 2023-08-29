@@ -20,7 +20,7 @@
 * 16/03 - qui - Dimensões, Cotas e Textos
 * 20/03 - seg (A1) - Layout e impressão
 * 23/03 - qui (A1) - Revisão - orientação
-* 27/03 - seg (A1) - Entrega via Canvas
+* 27/03 - seg (A1) - Entrega via Canvas - [edital AV1](./av1_edital_rdc.md)
 * 30/03 - qui (A1) - Aula expositiva CAD x BIM
   
 
