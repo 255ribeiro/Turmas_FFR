@@ -48,7 +48,7 @@ Desenho técnico 2D com instrumentos computacionais.
 
     - uma planta de cobertura
 
-1. Os desenhos, a serem enviados em formato PDF, devem apresentar:
+1. Os desenhos, a serem gerados em formato PDF, devem apresentar:
 
     - Espessuras e hierarquia de traços conforme as regras de desenho técnico
 
@@ -61,6 +61,12 @@ Desenho técnico 2D com instrumentos computacionais.
     - indicação de corte e fachada nas plantas
 
     - blocos para mostrar os layouts dos ambientes
+
+
+### O envio deve ser feito em arquivo compactado (ZIP, RAR, TAR.GZ ou 7Z) contendo:
+    - Arquivos DWG com os desenhos.
+    - Arquivos PDF com os desenhos.
+    - Arquivo CTB utilizado.
 
 #### Os prazos devem ser consultados no cronograma da disciplina.
 
