@@ -65,4 +65,4 @@ Os códigos devem ser comentados, demonstrando o entendimento do programa.
        - um mapa de contexto da biblioteca contextily
       - salve a imagem.
 
-## Os trabalhos devem ser enviados em arquivo PDF pelo Canvas da disciplina.
+## Os trabalhos devem ser enviados em arquivo zipado pelo Canvas da disciplina.
