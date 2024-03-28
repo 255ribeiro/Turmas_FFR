@@ -9,7 +9,6 @@ ____________________________________________________________
 
 #### Modelagem paramétrica e simulações digitais
 
-
 [Edital AV1](./2024.1/CIMATEC/Modelagem_parametrica_simulacoes/av1_edital_mpsd.md)
 
 ____________________________________________________________
