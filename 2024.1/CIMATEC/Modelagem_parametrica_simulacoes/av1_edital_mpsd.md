@@ -57,7 +57,7 @@ Os códigos devem ser comentados, demonstrando o entendimento do programa.
      - Com o ponto como centro, filtre o GeoDataFrame de Salvador, selecionando os setores censitários que estão localizados em um raio de 1km a partir do ponto.
      - Gere uma imagem com o mapa e o ponto.
      - A imagem deve conter:
-       - malha de Salvador (filtrada para o entorno do ponto) colorida conforme a densidade demográfica de cada setor.
+       - Mapa de Salvador (filtrada para o entorno do ponto) colorida conforme a densidade demográfica de cada setor.
        - legenda da densidade populacional com título
        - título da imagem
        - indique o ponto do terreno com um texto
