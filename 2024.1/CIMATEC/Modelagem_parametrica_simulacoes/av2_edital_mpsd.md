@@ -3,24 +3,14 @@
 
 ## Modelagem paramétrica
 
-1. Os alunos devem desenvolver um modelo paramétrico de uma das opções abaixo:
-   
-    a. Uma torre
+Os alunos devem entregar arquivos do grasshopper (.gh) contendo os algoritmos, e do rhinoceros (.3dm) contendo estudos de formas (*bakes*) de modelos gerados pelos algoritimos. Os seguintes algoritmos devem ser utilizados:
 
-    b. Um pavilhão
-
-    c. Um objeto proposto pelo aluno em acordo com o professor
-
-1. Um padrão paramétrico ou sistema de painelização (paneling) paramétrico deve ser aplicados sobre a forma base.
-
-
-1. Alem dos arquivos originais (Rhino e Grasshopper) os alunos devem apresentar:
-   
-    a. Prints da tela com ao menos 5 flexões do modelo paramétrico
-
-    b. Uma orientação de uso do algoritmo paramétrico proposto
-
-1. O Trabalho será orientado em sala de aula.
+1. Sequência de pilares
+2. Edf. de múltiplos pavimentos
+3. Edf. de Múltiplos pavimantos com deslocamento aleatório dos andares
+4. treliças planas
+5. treliças espaciais
+6. um modelo baseado em atratores.
 
 
 ### A data de entrega deve ser consultada no cronograma da disciplina.
