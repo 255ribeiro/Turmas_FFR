@@ -1,11 +1,40 @@
-# Edital Avaliação 01
+# Atividade de Avaliação 01: Edital 
+
+<h4 style="background:lightblue; text-align:center"> CENTRO UNIVERSITÁRIO SENAI CIMATEC <br>
+CURSO DE ARQUITETURA E URBANISMO </h4>
 
 
-## A avaliação será baseada nos exercícios desenvolvidos em sala de aula
+<p>
+    <span style="float: left;">Docente: Prof: Msc Fernando Ferraz Ribeiro</span>
+    <span style="float: right;">Semestre: 2024.1</span>
+</p>
 
-Os trabalhos podem ser feitos de forma individual, em duplas ou em trios. O nome dos alunos de cada grupo devem aparecer no início de cada programa como comentários.
+<br>
+
+<h4 style="background:lightblue">
+
+Obetivo da avalaição
+
+</h4>
+
+1. Exercitar o raciocínio lógico;
+2. Entender fundamentos da programação;
+3. Aplicar funamentos de programção na análise de informações geoespaciais.
+
+
+<h4 style="background:lightblue">
+Orientações gerais
+
+</h4>
+
+A avaliação será baseada nos exercícios desenvolvidos em sala de aula.Os trabalhos podem ser feitos de forma individual, em duplas ou em trios. O nome dos alunos de cada grupo devem aparecer no início de cada programa como comentários.
 
 Os códigos devem ser comentados, demonstrando o entendimento do programa.
+
+<h4 style="background:lightblue">
+Itens da entrega
+
+</h4>
 
 1. Algoritmo da Escada:
     - Algoritmo que calcula o número de espelhos de uma escada
@@ -34,11 +63,8 @@ Os códigos devem ser comentados, demonstrando o entendimento do programa.
     - entradas: distância entre pontos em x, distância entre os pontos em y, número de pontos em x, número de pontos em y
     - saída: imagem gerada com a biblioteca matplotlib da malha de pontos
 
-
-
 1. Algoritmo da treliça:
     - Utilizar o matplotlib para desenhar uma treliça com banzo superior, inferior e diagonais 
-
 
 1. Mapa de densidade demográfica por setores censitários:
     - No site do IBGE [https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html) baixe os dados do Censo demográfico de 2022, agregados por setores censitários preliminares, a malha com  atributos para o estado da Bahia. ver figura abaixo:
@@ -65,4 +91,6 @@ Os códigos devem ser comentados, demonstrando o entendimento do programa.
        - um mapa de contexto da biblioteca contextily
       - salve a imagem.
 
-### Os trabalhos devem ser enviados em arquivo zipado pelo Canvas da disciplina.
+<h4 style="background:lightblue"> Formato da entrega e envio</h4>.
+
+ Os trabalhos devem ser enviados em arquivo zipado pelo Canvas da disciplina.
