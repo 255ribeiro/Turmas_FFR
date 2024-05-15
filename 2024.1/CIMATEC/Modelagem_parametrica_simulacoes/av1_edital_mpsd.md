@@ -25,8 +25,6 @@ CURSO DE ARQUITETURA E URBANISMO
     <span style="float: right;">Semestre: 2024.1</span>
 </div>
 
-
-
 <br>
 
 ---
