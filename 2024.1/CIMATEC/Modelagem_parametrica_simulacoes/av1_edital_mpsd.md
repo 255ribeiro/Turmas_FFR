@@ -5,7 +5,7 @@ CURSO DE ARQUITETURA E URBANISMO </h4>
 
 
 <p>
-    <span style="float: left;">Docente: Prof: Msc Fernando Ferraz Ribeiro</span>
+    <span style="float: left;">Docente: Prof: Msc. Fernando Ferraz Ribeiro</span>
     <span style="float: right;">Semestre: 2024.1</span>
 </p>
 
@@ -13,13 +13,13 @@ CURSO DE ARQUITETURA E URBANISMO </h4>
 
 <h4 style="background:lightblue">
 
-Obetivo da avalaição
+Objetivo da avaliação
 
 </h4>
 
 1. Exercitar o raciocínio lógico;
 2. Entender fundamentos da programação;
-3. Aplicar funamentos de programção na análise de informações geoespaciais.
+3. Aplicar fundamentos de programação na análise de informações geoespaciais.
 
 
 <h4 style="background:lightblue">
