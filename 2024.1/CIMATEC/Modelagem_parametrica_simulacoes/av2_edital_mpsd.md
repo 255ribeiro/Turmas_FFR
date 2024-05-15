@@ -5,7 +5,7 @@
 <div style= "align: top;">
 
 <span style="float: left;">
-<img src="../../../figs_gerais/senai_logo.png" width="180">
+<img src="../../../figs_gerais/senai_logo.png" width="150">
 
 </span>
 <span style="float: right;"><br>
