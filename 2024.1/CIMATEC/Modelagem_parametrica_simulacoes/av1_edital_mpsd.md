@@ -111,6 +111,9 @@ Itens da entrega
        - um mapa de contexto da biblioteca contextily
       - salve a imagem.
 
-<h4 style="background:lightblue"> Formato da entrega e envio</h4>.
+<h4 style="background:lightblue"> Formato da entrega e envio</h4>
 
  Os trabalhos devem ser enviados em arquivo zipado pelo Canvas da disciplina.
+
+
+ #### A data de entrega deve ser consultada no cronograma da disciplina.

@@ -61,7 +61,7 @@ A entrega deve conter modelos relativos aos seguintes algoritmos desenvolvidos e
 5. treliças espaciais
 6. um modelo baseado em atratores.
 
-<h4 style="background:lightblue"> Formato da entrega e envio</h4>.
+<h4 style="background:lightblue"> Formato da entrega e envio</h4>
 
   Os trabalhos devem ser enviados em arquivo zipado pelo Canvas da disciplina.
 
