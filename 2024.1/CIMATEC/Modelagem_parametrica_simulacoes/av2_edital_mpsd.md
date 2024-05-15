@@ -66,6 +66,9 @@ A entrega deve conter modelos relativos aos seguintes algoritmos desenvolvidos e
   Os trabalhos devem ser enviados em arquivo zipado pelo Canvas da disciplina.
 
 
+_______________
+
 #### A data de entrega deve ser consultada no cronograma da disciplina.
+
 
 _______________
