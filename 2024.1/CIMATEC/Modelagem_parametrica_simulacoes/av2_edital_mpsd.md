@@ -1,15 +1,36 @@
 # Atividade de Avaliação 02: Edital 
 
-<h4 style="background:lightblue; text-align:center"> CENTRO UNIVERSITÁRIO SENAI CIMATEC <br>
-CURSO DE ARQUITETURA E URBANISMO </h4>
+-----
+
+<div style= "align: top;">
+
+<span style="float: left;">
+<img src="../../../figs_gerais/senai_logo.png" width="180">
+
+</span>
+<span style="float: right;"><br>
+CENTRO UNIVERSITÁRIO SENAI CIMATEC <br>
+CURSO DE ARQUITETURA E URBANISMO
+
+</span>
 
 
-<p>
+</div>
+
+<br><br><br><br>
+
+
+<div>
     <span style="float: left;">Docente: Prof: Msc. Fernando Ferraz Ribeiro</span>
     <span style="float: right;">Semestre: 2024.1</span>
-</p>
+</div>
+
+
 
 <br>
+
+---
+
 
 <h4 style="background : lightblue;">
 
