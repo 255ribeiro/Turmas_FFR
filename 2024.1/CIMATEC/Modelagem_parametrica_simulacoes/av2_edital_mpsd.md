@@ -56,7 +56,7 @@ A entrega deve conter modelos relativos aos seguintes algoritmos desenvolvidos e
 2. Edf. de múltiplos pavimentos
 3. Edf. de Múltiplos pavimentos com deslocamento aleatório dos andares
 4. treliças planas
-5. treliças espaciais
+<!-- 5. treliças espaciais -->
 6. um modelo baseado em atratores.
 
 <h4 style="background:lightblue"> Formato da entrega e envio</h4>
