@@ -14,6 +14,8 @@ ____________________________________________________________
 
 [Edital AV2](./2024.1/CIMATEC/Modelagem_parametrica_simulacoes/av2_edital_mpsd.md)
 
+[Edital AV3](2024.1/CIMATEC/Modelagem_parametrica_simulacoes/av3_edital_mpsd.md)
+
 
 #### Introdução à Modelagem paramétrica
 
