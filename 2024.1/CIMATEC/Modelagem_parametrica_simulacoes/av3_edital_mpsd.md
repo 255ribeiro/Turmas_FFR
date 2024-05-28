@@ -50,11 +50,12 @@ Os discentes deverão conceber um projeto utilizado, ao menos parcialmente, mode
 * Uma torre com múltiplos pavimentos
 * Um pavilhão de exposições
 
-Outras propostas de projeto devem ser apresentadas e discutidas com o professor. 
+Outras propostas de projeto devem ser apresentadas e discutidas com o professor. Os seguintes critérios devem ser seguidos pelos discentes:
 
 * Os trabalhos serão desenvolvidos e orientados em sala de aula.
-
 * Auas teórico/práticas serão ministradas para orientar a atividade.
+* Os projetos devem ser implantados em um terreno real, levando em conta o entrono e a topografia.
+* O terreno é de livre escolha dos discentes.
 
 <h4 style="background:lightblue">
 Itens da entrega
