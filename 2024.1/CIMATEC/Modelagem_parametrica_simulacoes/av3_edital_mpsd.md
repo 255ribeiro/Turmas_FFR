@@ -1,38 +1,78 @@
-# Edital Avaliação 03
+# Atividade de Avaliação 03: Edital 
 
-## Interoperabilidade: 
+-----
 
-### Os discentes devem transpor um volume (ou conjunto de volumes) gerados no Rhino/Grasshopper para uma ferramenta de autoria BIM de sua escolha (Revit, Archicad, Vectorworks, Bricscad Bim, Freecad,  etc)
+<div style= "align: top;">
 
-1. O jogo de plantas deve conter no mínimo:
+<span style="float: left;">
+<img src="../../../figs_gerais/senai_logo.png" width="150">
 
-    - Planta Baixa dos um dos pavimentos
+</span>
+<span style="float: right;"><br>
+CENTRO UNIVERSITÁRIO SENAI CIMATEC <br>
+CURSO DE ARQUITETURA E URBANISMO
 
-    - 1 corte
-
-    - uma fachada ou visa 3d
-
-    - uma planta de cobertura
-
-2. No final, os alunos devem compactar os arquivos do Revit e as plantas geradas em um único arquivo .zip, .rar, .7z ou .tar.gz e enviar para avaliação pelo ambiente virtual da disciplina.
+</span>
 
 
-2. As plantas, a serem enviados em formato PDF ou DWF, devem apresentar:
+</div>
 
-    - Espessuras e hierarquia de traços conforme as regras de desenho técnico
-
-    - Textos com nomes dos cômodos e as áreas dos mesmos
-
-    - dimensões e cotas de nível
-
-    - Hachuras de piso indicando as áreas molhadas
-
-    - indicação de corte e fachada nas plantas
+<br><br><br><br><br><br>
 
 
+<div>
+    <span style="float: left;">Docente: Prof: Msc. Fernando Ferraz Ribeiro</span>
+    <span style="float: right;">Semestre: 2024.1</span>
+</div>
 
-### Os prazos devem ser consultados no cronograma da disciplina.
+<br>
 
-----------------------------
+---
 
-----------------------------
+
+<h4 style="background : lightblue;">
+
+Objetivo da avaliação
+
+</h4>
+
+1. Exercitar o raciocínio lógico;
+2. Aplicar técnica de resolução de problema;
+3. Desenvolver algoritmos generativos paramétricos
+<h4 style="background:lightblue">
+Orientações Gerais
+</h4>
+
+Este trabalho se configura como a concepção e detalhamento de um projeto arquitetônico gerado e detalhado por algoritmos generativos paramétricos. A avaliação desta unidade se configura como uma atividade única que será desenvolvida ao longo do final do semestre e deverá ser entregue no ultimo dia de aula (verificar calendário).
+
+Os discentes deverão conceber um projeto utilizado, ao menos parcialmente, modelagem paramétrica. O projeto deve se enquadrar em uma das categorias abaixo:
+
+* Uma torre com múltiplos pavimentos
+* Um pavilhão de exposições
+
+Outras propostas de projeto devem ser apresentadas e discutidas com o professor. 
+
+* Os trabalhos serão desenvolvidos e orientados em sala de aula.
+
+* Auas teórico/práticas serão ministradas para orientar a atividade.
+
+<h4 style="background:lightblue">
+Itens da entrega
+</h4>
+
+* Arquivo(s) com modelo(s) gerado(s) no Rhinoceros 3D;
+* Arquivo(s) do grasshopper utilizados;
+* Um painel (banner) apresentando o modelo criado (PDF);
+* Outros arquivos com modelo(s) 3D utilizados.
+
+<h4 style="background:lightblue"> Formato da entrega e envio</h4>
+
+  Os trabalhos devem ser enviados em arquivo zipado pelo Canvas da disciplina.
+
+
+_______________
+
+#### A data de entrega deve ser consultada no cronograma da disciplina.
+
+
+_______________
