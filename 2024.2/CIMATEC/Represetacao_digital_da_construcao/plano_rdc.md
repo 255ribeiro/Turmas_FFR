@@ -1,5 +1,33 @@
 # Representação Digital da construção
-## Plano de aulas e avaliação
+## Plano do curso - Cronograma
+
+-----
+
+<div style= "align: top;">
+
+<span style="float: left;">
+<img src="../../../figs_gerais/senai_logo.png" width="150">
+
+</span>
+<span style="float: right;"><br>
+CENTRO UNIVERSITÁRIO SENAI CIMATEC <br>
+CURSO DE ARQUITETURA E URBANISMO
+
+</span>
+
+
+</div>
+
+<br><br><br><br><br><br>
+
+<div>
+    <span style="float: left;">Docente: Prof: Msc. Fernando Ferraz Ribeiro</span>
+    <span style="float: right;">Semestre: 2024.1</span>
+</div>
+
+<br>
+
+---
 
 ### 2023.2
 
