@@ -36,7 +36,7 @@ CURSO DE ARQUITETURA E URBANISMO
 * 6/ago	    terça-feira	    Interface do Autocad - comando de criação
 * 8/ago	    quinta-feira	Comandos de criação e edição - parte 1
 * 13/ago	terça-feira	    Comandos de criação e edição - parte 2
-* 15/ago	quinta-feira	Exercícios de desenho
+* 15/ago	quinta-feira	Exercícios de desenho - Layers
 * 20/ago	terça-feira	    Exercício casa - plantas baixas - parte 1
 * 22/ago	quinta-feira	Exercício casa - plantas baixas - parte 2
 * 27/ago	terça-feira	    Exercício casa - cortes
