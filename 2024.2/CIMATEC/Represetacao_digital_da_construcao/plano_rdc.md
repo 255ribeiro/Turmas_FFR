@@ -1,5 +1,6 @@
 # Representação Digital da construção
 ## Plano do curso - Cronograma
+### 2024.2
 
 -----
 
@@ -22,14 +23,14 @@ CURSO DE ARQUITETURA E URBANISMO
 
 <div>
     <span style="float: left;">Docente: Prof: Msc. Fernando Ferraz Ribeiro</span>
-    <span style="float: right;">Semestre: 2024.1</span>
+    <span style="float: right;">Semestre: 2024.2</span>
 </div>
 
 <br>
 
 ---
 
-### 2023.2
+
 
 #### Agosto
 

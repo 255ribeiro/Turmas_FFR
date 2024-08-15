@@ -1,7 +1,5 @@
 # Turmas FFR
 
-
-
 ## 2024.2
 
 ### CIMATEC
