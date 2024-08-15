@@ -50,7 +50,7 @@ CURSO DE ARQUITETURA E URBANISMO
 * 12/set	quinta-feira	Layout e impressão - parte 2
 * 17/set	terça-feira	Revisão - orientação
 * 19/set	quinta-feira	Revisão - orientação 
-* <span style="color:DarkGreen">21/set    sábado - Entrega via canvas <!-- [edital AV1](./av1_edital_rdc.md) --></span>
+* <span style="color:DarkGreen"><b>21/set    sábado - Entrega via canvas <!-- [edital AV1](./av1_edital_rdc.md) --></b></span>
 * 24/set	terça-feira	Aula expositiva CAD x BIM
 * 26/set	quinta-feira	Revit interface - configuração das unidades
 
@@ -70,7 +70,7 @@ CURSO DE ARQUITETURA E URBANISMO
 
 #### Novembro
 
-* <span style="color:DarkGreen"> 2/nov	sábado	- Entrega via canvas <!-- [avaliação Av2](./av2_edital_rdc.md) --></span>
+* <span style="color:DarkGreen"><b> 2/nov	sábado	- Entrega via canvas <!-- [avaliação Av2](./av2_edital_rdc.md) --></b></span>
 * 5/nov	    terça-feira	    Inserção de instâncias de móveis e hidro-sanitários
 * 7/nov	    quinta-feira	 Materiais e hachuras
 * 12/nov	terça-feira	    Margem e carimbo Plantas títulos e escalas
@@ -84,8 +84,8 @@ CURSO DE ARQUITETURA E URBANISMO
 
 * 3/dez	    terça-feira	Impressão
 * 5/dez	    quinta-feira	Revisão - orientação
-*  <span style="color:DarkGreen">7/dez     sábado    - Entrega via canvas</span><!-- [Av3](./av3_edital_rdc.md) -->
-* <span style="color:Olive">10/dez	terça-feira	    2° Chamada das Avaliações 2023.2</span>
-* <span style="color:Olive">14/dez - 20/dez   Período de Provas Finais</span>
+*  <span style="color:DarkGreen"><b>7/dez     sábado    - Entrega via canvas</b></span><!-- [Av3](./av3_edital_rdc.md) -->
+* <span style="color:Olive"><b>10/dez	terça-feira	    2° Chamada das Avaliações 2023.2</b></span>
+* <span style="color:Olive"><b>14/dez - 20/dez   Período de Provas Finais</b></span>
 
  
