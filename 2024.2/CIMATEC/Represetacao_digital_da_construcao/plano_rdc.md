@@ -19,9 +19,9 @@
 #### Setembro
 
 * 3/set	    terça-feira	Dimensões, Cotas e Textos - parte 1
-* 5/set	    quinta-feira	Feriado 
-* 10/set	terça-feira	Dimensões, Cotas e Textos - parte 2
-* 12/set	quinta-feira	Layout e impressão
+* 5/set	    quinta-feira    Dimensões, Cotas e Textos - parte 2
+* 10/set	terça-feira	    Layout e impressão - parte 1
+* 12/set	quinta-feira	Layout e impressão - parte 2
 * 17/set	terça-feira	Revisão - orientação
 * 19/set	quinta-feira	Revisão - orientação 
 * <span style="color:blue">21/set    sábado - Entrega via canvas <!-- [edital AV1](./av1_edital_rdc.md) --></span>
