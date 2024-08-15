@@ -1,5 +1,21 @@
 # Turmas FFR
 
+
+
+## 2024.2
+
+### CIMATEC
+
+#### REPRESENTAÇÃO DIGITAL DA CONSTRUÇÃO
+
+
+[Plano de curso](./2024.2/CIMATEC/Represetacao_digital_da_construcao/plano_rdc.md)
+
+<!-- [Edital AV1](./2024.2/CIMATEC/Represetacao_digital_da_construcao/av1_edital_rdc.md)
+
+[Edital AV2](./2024.2/CIMATEC/Represetacao_digital_da_construcao/av2_edital_rdc.md)
+
+[Edital AV3](./2024.2/CIMATEC/Represetacao_digital_da_construcao/av3_edital_rdc.md) -->
 ____________________________________________________________
 ____________________________________________________________
 
