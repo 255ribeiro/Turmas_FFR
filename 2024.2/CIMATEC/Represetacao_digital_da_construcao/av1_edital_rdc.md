@@ -105,6 +105,7 @@ Trabalhos copiados serão zerados
 Não é permitido importar o PDF como arquivo vetorial
 
 Outros conjuntos de plantas equivalentes podem ser apresentadas desde que aprovadas previamente pelo professor.
+
 ----------------------------
 
 ----------------------------
