@@ -113,7 +113,7 @@ Outros conjuntos de plantas equivalentes podem ser apresentadas desde que aprova
 
 <h4 style="background:lightblue">Arquivos Base :</h4>
 
-[Planta Baixa térreo]([2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/av1_pav_terreo.pdf](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/av1_pav_terreo.pdf))
+[Planta Baixa térreo](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/av1_pav_terreo.pdf)
 
 <!-- [Planta Baixa pavimento superior](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-pav_sup.pdf)
 
