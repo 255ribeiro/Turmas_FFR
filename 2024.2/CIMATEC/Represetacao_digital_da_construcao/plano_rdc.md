@@ -50,7 +50,7 @@ CURSO DE ARQUITETURA E URBANISMO
 * 12/set	quinta-feira	Layout e impressão - parte 2
 * 17/set	terça-feira	Revisão - orientação
 * 19/set	quinta-feira	Revisão - orientação 
-* <span style="color:Crimson"><b>21/set    sábado - Entrega via canvas [edital AV1](./av1_edital_rdc.md)</b></span>
+* <span style="color:Crimson"><b>21/set    sábado - Entrega via canvas </b></span>[edital AV1](./av1_edital_rdc.md)
 * 24/set	terça-feira	Aula expositiva CAD x BIM
 * 26/set	quinta-feira	Revit interface - configuração das unidades
 
