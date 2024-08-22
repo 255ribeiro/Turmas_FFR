@@ -1,6 +1,62 @@
-# Edital Avaliação 01
+# Atividade de Avaliação 01: Edital 
 
-## Os alunos devem reproduzir, Utilizando uma ferramenta CAD 2D, o jogo de plantas de uma edificação fornecida pelo professor.
+-----
+
+<div style= "align: top;">
+
+<span style="float: left;">
+<img src="../../../figs_gerais/senai_logo.png" width="150">
+
+</span>
+<span style="float: right;"><br>
+CENTRO UNIVERSITÁRIO SENAI CIMATEC <br>
+CURSO DE ARQUITETURA E URBANISMO
+
+</span>
+
+
+</div>
+
+<br><br><br><br><br><br>
+
+<div>
+    <span style="float: left;">Docente: Prof: Msc. Fernando Ferraz Ribeiro</span>
+    <span style="float: right;">Semestre: 2024.2</span>
+</div>
+
+<br>
+
+---
+
+
+
+<h4 style="background:lightblue">
+
+Objetivo da avaliação
+
+</h4>
+
+1. Exercitar o raciocínio geométrico e espacial;
+2. Entender fundamentos dos programas CAD;
+3. Aplicar os conhecimentos teóricos e práticos abordados na disciplina.
+
+
+<h4 style="background:lightblue">
+
+
+<h4 style="background:lightblue">
+Orientações gerais
+
+</h4>
+
+A avaliação poderá ser desenvolvida individualmente ou em dupla.
+
+Os alunos devem reproduzir, Utilizando uma ferramenta CAD 2D, o jogo de plantas de uma edificação fornecida pelo professor.
+
+<h4 style="background:lightblue">
+Itens da entrega
+
+</h4>
 
 1. O jogo de plantas deve conter no mínimo:
 
@@ -26,12 +82,27 @@
 
     - blocos para mostrar os layouts dos ambientes
 
-### O envio deve ser feito em arquivo compactado (ZIP, RAR, TAR.GZ ou 7Z) contendo:
+
+<h4 style="background:lightblue"> Formato da entrega e envio</h4>
+
+O envio deve ser feito em arquivo compactado (ZIP, RAR, TAR.GZ ou 7Z) contendo:
     - Arquivo(s) .DWG com os desenhos.
     - Arquivo(s) .PDF com os desenhos.
     - Arquivo(s) .CTB utilizado(s).
 
-#### Os prazos devem ser consultados no cronograma da disciplina.
+
+ Os trabalhos devem ser enviados pelo Canvas da disciplina.
+
+<h4 style="background:lightblue"> Data de entrega</h4>
+
+Os prazos devem ser consultados no cronograma da disciplina.
+
+
+<h4 style="background:lightblue">Observação :</h4>
+
+Trabalhos copiados serão zerados
+
+Não é permitido importar o PDF 
 
 ----------------------------
 
