@@ -27,9 +27,9 @@
     - blocos para mostrar os layouts dos ambientes
 
 ### O envio deve ser feito em arquivo compactado (ZIP, RAR, TAR.GZ ou 7Z) contendo:
-    - Arquivos DWG com os desenhos.
-    - Arquivos PDF com os desenhos.
-    - Arquivo CTB utilizado.
+    - Arquivo(s) .DWG com os desenhos.
+    - Arquivo(s) .PDF com os desenhos.
+    - Arquivo(s) .CTB utilizado(s).
 
 #### Os prazos devem ser consultados no cronograma da disciplina.
 
@@ -40,9 +40,9 @@
 
 #### Arquivos
 
-[Planta Baixa térreo](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-pav_terreo.pdf)
+[Planta Baixa térreo](2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/av1_pav_terreo.pdf)
 
-[Planta Baixa pavimento superior](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-pav_sup.pdf)
+<!-- [Planta Baixa pavimento superior](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-pav_sup.pdf)
 
 [Corte AA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-corteaa.pdf)
 
@@ -70,4 +70,4 @@
 
 --------------------------------------
 
---------------------------------------
+-------------------------------------- -->
