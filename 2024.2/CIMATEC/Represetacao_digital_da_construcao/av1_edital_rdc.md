@@ -41,7 +41,7 @@ Objetivo da avaliação
 3. Aplicar os conhecimentos teóricos e práticos abordados na disciplina.
 
 
-<h4 style="background:lightblue">
+
 
 
 <h4 style="background:lightblue">
@@ -102,14 +102,17 @@ Os prazos devem ser consultados no cronograma da disciplina.
 
 Trabalhos copiados serão zerados
 
-Não é permitido importar o PDF 
+Não é permitido importar o PDF
+
+</br>
+
 
 ----------------------------
 
 ----------------------------
 
 
-#### Arquivos
+<h4 style="background:lightblue">Arquivos Base :</h4>
 
 [Planta Baixa térreo](2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/av1_pav_terreo.pdf)
 
