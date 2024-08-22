@@ -102,9 +102,7 @@ Os prazos devem ser consultados no cronograma da disciplina.
 
 Trabalhos copiados serão zerados
 
-Não é permitido importar o PDF
-
-</br>
+Não é permitido importar o PDF como arquivo vetorial
 
 
 ----------------------------
