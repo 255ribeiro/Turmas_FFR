@@ -30,7 +30,7 @@ CURSO DE ARQUITETURA E URBANISMO
 
 ---
 
-#### Agosto
+<h4 style="background:lightblue">Agosto</h4>
 
 * 1/ago	    quinta-feira	Apresentação da disciplina.Apresentação do professor. Apresentação dos alunos.
 * 6/ago	    terça-feira	    Interface do Autocad - comando de criação
@@ -42,7 +42,7 @@ CURSO DE ARQUITETURA E URBANISMO
 * 27/ago	terça-feira	    Exercício casa - cortes
 * 39/ago	quinta-feira	Exercício casa - fachadas
 
-#### Setembro
+<h4 style="background:lightblue">Setembro</h4>
 
 * 3/set	    terça-feira	Dimensões, Cotas e Textos - parte 1
 * 5/set	    quinta-feira    Dimensões, Cotas e Textos - parte 2
@@ -54,7 +54,7 @@ CURSO DE ARQUITETURA E URBANISMO
 * 24/set	terça-feira	Aula expositiva CAD x BIM
 * 26/set	quinta-feira	Revit interface - configuração das unidades
 
-#### Outubro
+<h4 style="background:lightblue">Outubro</h4>
 
 * 1/out	    terça-feira	    Paredes
 * 3/out	    quinta-feira	Janelas e portas
@@ -68,7 +68,7 @@ CURSO DE ARQUITETURA E URBANISMO
 * 31/out	quinta-feira	Revisão - orientação
 * 31/out	quinta-feira	Revisão - orientação
 
-#### Novembro
+<h4 style="background:lightblue">Novembro</h4>
 
 * <span style="color:Crimson"><b> 2/nov	sábado	- Entrega via canvas </b></span> <!-- - [avaliação Av2](./av2_edital_rdc.md) -->
 * 5/nov	    terça-feira	    Inserção de instâncias de móveis e hidro-sanitários
@@ -80,7 +80,7 @@ CURSO DE ARQUITETURA E URBANISMO
 * 26/nov	terça-feira	    Tabelas de quantitativos
 * 38/nov	quinta-feira	 Hierarquia de linhas no Revit
 
-#### Dezembro
+<h4 style="background:lightblue">Dezembro</h4>
 
 * 3/dez	    terça-feira	Impressão
 * 5/dez	    quinta-feira	Revisão - orientação
