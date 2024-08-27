@@ -101,7 +101,7 @@ O envio deve ser feito em arquivo compactado (ZIP, RAR, TAR.GZ ou 7Z) contendo:
 Os prazos devem ser consultados no cronograma da disciplina.
 
 
-<h4 style="background:lightblue">Observação :</h4>
+<h4 style="background:lightblue">Observações :</h4>
 
 Trabalhos copiados serão zerados
 
