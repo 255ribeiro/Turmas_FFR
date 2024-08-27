@@ -86,9 +86,12 @@ Itens da entrega
 <h4 style="background:lightblue"> Formato da entrega e envio</h4>
 
 O envio deve ser feito em arquivo compactado (ZIP, RAR, TAR.GZ ou 7Z) contendo:
-    - Arquivo(s) .DWG com os desenhos.
-    - Arquivo(s) .PDF com os desenhos.
-    - Arquivo(s) .CTB utilizado(s).
+
+ - Arquivo(s) .DWG com os desenhos.
+  
+ - Arquivo(s) .PDF com os desenhos.
+  
+ - Arquivo(s) .CTB utilizado(s).
 
 
  Os trabalhos devem ser enviados pelo Canvas da disciplina.
