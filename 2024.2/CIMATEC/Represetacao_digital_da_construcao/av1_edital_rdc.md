@@ -62,9 +62,9 @@ Itens da entrega
 
     - Planta Baixa dos 2 pavimentos
 
-    - 2 cortes - um deles passando pela escada
+    - Corte A
 
-    - Duas fachadas
+    - Uma fachada
 
     - uma planta de cobertura
 
