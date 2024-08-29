@@ -40,7 +40,7 @@ CURSO DE ARQUITETURA E URBANISMO
 * 20/ago	terça-feira	    Exercício casa - plantas baixas - parte 1
 * 22/ago	quinta-feira	Exercício casa - plantas baixas - parte 2
 * 27/ago	terça-feira	    Exercício casa - cortes
-* 39/ago	quinta-feira	Exercício casa - fachadas
+* 29/ago	quinta-feira	Exercício casa - fachadas
 
 <h4 style="background:lightblue">Setembro</h4>
 
