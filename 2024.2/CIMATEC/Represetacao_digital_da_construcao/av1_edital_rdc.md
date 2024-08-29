@@ -116,24 +116,18 @@ Outros conjuntos de plantas equivalentes podem ser apresentadas desde que aprova
 
 <h4 style="background:lightblue">Arquivos Base :</h4>
 
-[Planta Baixa térreo](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/av1_pav_terreo.pdf)
-
-<!-- [Planta Baixa pavimento superior](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-pav_sup.pdf)
-
-[Corte AA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-corteaa.pdf)
-
-[Corte BB](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-cortebb.pdf)
+[Planta Baixa térreo](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-pav_terreo.pdf)
 
 
-[FACHADA SUL](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_sul.pdf)
+[Planta Baixa pavimento superior](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-pav_sup.pdf)
 
-[FACHADA LESTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_leste.pdf)
+[Corte AA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-corteaa.pdf)
 
-[FACHADA NORTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_norte.pdf)
 
-[FACHADA OESTE](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_oeste.pdf)
+<!-- [FACHADA SUL](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-fch_sul.pdf) -->
 
-[COBERTURA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/PROJ_Exemplo_V2-cobertura.pdf)
+
+[COBERTURA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-cobertura.pdf)
 
 
 ---------------------------------
@@ -141,9 +135,7 @@ Outros conjuntos de plantas equivalentes podem ser apresentadas desde que aprova
 ----------------------------------
 
 
-[Guia de Layers](av1_guia_de_layers.md)
+<!-- [Guia de Layers](av1_guia_de_layers.md) -->
 
 
---------------------------------------
 
--------------------------------------- -->
