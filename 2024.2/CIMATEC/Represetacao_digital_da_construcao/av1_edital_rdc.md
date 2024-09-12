@@ -60,6 +60,7 @@ Itens da entrega
 
 1. O jogo de plantas deve conter no mínimo:
 <br>
+
     - Planta Baixa dos 2 pavimentos
     - Corte A
     - <s>Corte B</s>
@@ -67,7 +68,7 @@ Itens da entrega
     - uma planta de cobertura
 <br>
 
-2. Os desenhos, a serem enviados em formato PDF e DWG devem apresentar:
+1. Os desenhos, a serem enviados em formato PDF e DWG devem apresentar:
 
     - Espessuras e hierarquia de traços conforme as regras de desenho técnico
 
