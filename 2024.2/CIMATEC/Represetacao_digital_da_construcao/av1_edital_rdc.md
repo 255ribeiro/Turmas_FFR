@@ -63,8 +63,10 @@ Itens da entrega
     - Planta Baixa dos 2 pavimentos
 
     - Corte A
+  
+    - <s>Corte B</s><br>
 
-    - Uma fachada
+    - <s>As quatro fachadas</s><br>
 
     - uma planta de cobertura
 
