@@ -59,16 +59,13 @@ Itens da entrega
 </h4>
 
 1. O jogo de plantas deve conter no mínimo:
-
+<br>
     - Planta Baixa dos 2 pavimentos
-
     - Corte A
-  
-    - <s>Corte B</s><br>
-
-    - <s>As quatro fachadas</s><br>
-
+    - <s>Corte B</s>
+    - <s>As quatro fachadas</s>
     - uma planta de cobertura
+<br>
 
 2. Os desenhos, a serem enviados em formato PDF e DWG devem apresentar:
 
