@@ -1,16 +1,92 @@
-# Edital Avaliação 
+# Atividade de Avaliação 02: Edital 
+
+-----
+
+<div style= "align: top;">
+
+<span style="float: left;">
+<img src="../../../figs_gerais/senai_logo.png" width="150">
+
+</span>
+<span style="float: right;"><br>
+CENTRO UNIVERSITÁRIO SENAI CIMATEC <br>
+CURSO DE ARQUITETURA E URBANISMO
+
+</span>
+
+
+</div>
+
+<br><br><br><br><br><br>
+
+<div>
+    <span style="float: left;">Docente: Prof: Msc. Fernando Ferraz Ribeiro</span>
+    <span style="float: right;">Semestre: 2024.2</span>
+</div>
+
+<br>
+
+---
+
+<h4 style="background:lightblue">
+
+Objetivo da avaliação
+
+</h4>
+
+1. Exercitar o raciocínio geométrico e espacial;
+2. Entender fundamentos da modelagem BIM;
+3. Aplicar os conhecimentos teóricos e práticos abordados na disciplina.
+
+<h4 style="background:lightblue">
+Orientações gerais
+
+</h4>
+
+A avaliação poderá ser desenvolvida individualmente ou em dupla.
+
+Os alunos devem Modelar, utilizando uma ferramenta de Modelagem BIM, o projeto desenvolvido na unidade anterior.
+
+<h4 style="background:lightblue">
+Itens da entrega
+
+</h4>
+
+1. A modelagem 3d deve conter:
+<br>
+
+   - Paredes e pisos modelados com camadas. Com a devida atenção ao núcleo e as faces de acabamento;
+   - Todas as portas e janelas com dimensões apropriadas;
+   - as paredes de cortina e a porta da parede de cortina corretamente modeladas;
+   - todas as lajes de piso e cobertura;
+   - uma modelagem básica da cobertura da casa;
+   - <s>O terreno modelado como uma superfície plana.</s>
+   
+<br>
+
+<h4 style="background:lightblue"> Formato da entrega e envio</h4>
+
+ Os trabalhos devem ser enviados pelo Canvas da disciplina.
+
+<h4 style="background:lightblue"> Data de entrega</h4>
+
+Os prazos devem ser consultados no cronograma da disciplina.
+
+
+<h4 style="background:lightblue">Observações :</h4>
+
+Trabalhos copiados serão zerados
+
+
+Outros projetos podem ser modelados desde que aprovados previamente pelo professor.
+
+----------------------------
+
+----------------------------
 
 
 
-# O trabalho deve apresentar a modelagem 3d do projeto da disciplina contendo:
-
-1. Paredes e pisos modelados com camadas.
-   1. as configurações das camadas devem apresentar ao menos o núcelo estrutural e as camadas de substrato configuradas corretamente.
-2. Todas as portas e janelas com dimensões apropriadas.
-3. as paredes de cortina e a porta da parede de cortina corretamente modeladas
-4. todas as lajes de piso e cobertura
-5. uma modelagem básica da cobertura da casa
-6. O terreno modelado como uma superfícia plana
 
 
-#### A data de entrega deve ser consultada no cronograma da disciplina
+
+
