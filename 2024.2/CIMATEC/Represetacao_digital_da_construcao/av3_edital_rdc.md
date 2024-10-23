@@ -45,28 +45,55 @@ Orientações gerais
 
 A avaliação poderá ser desenvolvida individualmente ou em dupla.
 
-Os alunos devem Modelar, utilizando uma ferramenta de Modelagem BIM, o projeto desenvolvido na unidade anterior.
+Os alunos devem gerar as plantas técnicas do modelo 3D elaborado e entregue no edital AV2.
 
 <h4 style="background:lightblue">
 Itens da entrega
 
+
+
+
 </h4>
 
-1. A modelagem 3d deve conter:
+1. Os produtos a serem entregues são:
 <br>
 
-   - Paredes e pisos modelados com camadas. Com a devida atenção ao núcleo e as faces de acabamento;
-   - Todas as portas e janelas com dimensões apropriadas;
-   - as paredes de cortina e a porta da parede de cortina corretamente modeladas;
-   - todas as lajes de piso e cobertura;
-   - uma modelagem básica da cobertura da casa;
-   - <s>O terreno modelado como uma superfície plana.</s>
+    - O arquivo RVT da Modelagem e configurações das plantas para a plotagem;
+
+    - Um arquivo (PDF ou DWF) contendo o jogo de plantas gerado.
    
 <br>
 
+1. O jogo de plantas deve conter no mínimo:
+<br>
+
+    - Planta Baixa dos 2 pavimentos;
+
+    - 1 corte passando pela escada;
+
+    - uma fachada;
+
+    - uma planta de cobertura mostrando também os limites do lote.
+   
+<br>
+
+1. As plantas devem apresentar:
+<br>
+    - Espessuras e hierarquia de traços conforme as regras de desenho técnico
+
+    - Textos com nomes dos cômodos e as áreas dos mesmos
+
+    - dimensões e cotas de nível
+
+    - Hachuras de piso indicando as áreas molhadas
+
+    - indicação de corte e fachada nas plantas
+<br>
 <h4 style="background:lightblue"> Formato da entrega e envio</h4>
 
- Os trabalhos devem ser enviados pelo Canvas da disciplina.
+os alunos devem compactar os arquivos do Revit e as plantas geradas em um único arquivo .zip, .rar, .7z ou .tar.gz e enviar para avaliação pelo ambiente virtual da disciplina.
+
+Os trabalhos devem ser enviados pelo Canvas da disciplina.
 
 <h4 style="background:lightblue"> Data de entrega</h4>
 
@@ -79,55 +106,6 @@ Trabalhos copiados serão zerados
 
 
 Outros projetos podem ser modelados desde que aprovados previamente pelo professor.
-
-----------------------------
-
-----------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Edital Avaliação 03
-
-## Os alunos devem gerar as plantas técnicas do modelo 3D elaborado e entregue no edital AV2 
-
-1. O jogo de plantas deve conter no mínimo:
-
-    - Planta Baixa dos 2 pavimentos
-
-    - 1 corte passando pela escada
-
-    - uma fachada
-
-    - uma planta de cobertura
-
-2. No final, os alunos devem compactar os arquivos do Revit e as plantas geradas em um único arquivo .zip, .rar, .7z ou .tar.gz e enviar para avaliação pelo ambiente virtual da disciplina.
-
-
-2. As plantas, a serem enviados em formato PDF ou DWF, devem apresentar:
-
-    - Espessuras e hierarquia de traços conforme as regras de desenho técnico
-
-    - Textos com nomes dos cômodos e as áreas dos mesmos
-
-    - dimensões e cotas de nível
-
-    - Hachuras de piso indicando as áreas molhadas
-
-    - indicação de corte e fachada nas plantas
-
-
-### Os prazos devem ser consultados no cronograma da disciplina.
 
 ----------------------------
 
