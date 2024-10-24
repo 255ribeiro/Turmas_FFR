@@ -61,6 +61,7 @@ Itens da entrega
    - todas as portas e janelas com dimensões apropriadas;
    - as paredes de cortina e a porta da parede de cortina corretamente modeladas;
    - modelar a escada e o corrimão conforme projeto;
+   - modelar guarda-corpos nas varandas;
    - <s>colocar componentes sanitários nos banheiros</s>
    - <s>uma modelagem básica da cobertura da casa;</s>
    - <s>O terreno modelado como uma superfície plana.</s>
