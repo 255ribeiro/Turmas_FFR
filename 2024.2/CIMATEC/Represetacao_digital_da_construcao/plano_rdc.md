@@ -70,7 +70,7 @@ CURSO DE ARQUITETURA E URBANISMO
 
 <h4 style="background:lightblue">Novembro</h4>
 
-* <span style="color:Crimson"><b> 2/nov	sábado	- Entrega via canvas </b></span> <!-- - [avaliação Av2](./av2_edital_rdc.md) -->
+* <span style="color:Crimson"><b> 4/nov	segunda	- Entrega via canvas </b></span> - [avaliação Av2](./av2_edital_rdc.md)
 * 5/nov	    terça-feira	    Inserção de instâncias de móveis e hidro-sanitários
 * 7/nov	    quinta-feira	 Materiais e hachuras
 * 12/nov	terça-feira	    Margem e carimbo Plantas títulos e escalas
@@ -84,7 +84,7 @@ CURSO DE ARQUITETURA E URBANISMO
 
 * 3/dez	    terça-feira	Impressão
 * 5/dez	    quinta-feira	Revisão - orientação
-*  <span style="color:Crimson"><b>7/dez     sábado    - Entrega via canvas</b></span><!-- - [Av3](./av3_edital_rdc.md) -->
+*  <span style="color:Crimson"><b>7/dez     sábado    - Entrega via canvas</b></span>- [Av3](./av3_edital_rdc.md)
 * <span style="color:Olive"><b>10/dez	terça-feira	    2° Chamada das Avaliações 2023.2</b></span>
 * <span style="color:Olive"><b>14/dez - 20/dez   Período de Provas Finais</b></span>
 
