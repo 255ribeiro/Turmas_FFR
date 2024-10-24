@@ -87,6 +87,26 @@ Outros projetos podem ser modelados desde que aprovados previamente pelo profess
 
 ----------------------------
 
+<h4 style="background:lightblue">Arquivos Base :</h4>
+
+[Planta Baixa térreo](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-pav_terreo.pdf)
+
+
+[Planta Baixa pavimento superior](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-pav_sup.pdf)
+
+[Corte AA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-corteaa.pdf)
+
+
+[FACHADA SUL](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-fch_sul.pdf)
+
+
+[COBERTURA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-cobertura.pdf)
+
+
+---------------------------------
+
+----------------------------------
+
 
 
 
