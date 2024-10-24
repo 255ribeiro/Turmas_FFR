@@ -56,9 +56,12 @@ Itens da entrega
 <br>
 
    - Paredes e pisos modelados com camadas. Com a devida atenção ao núcleo e as faces de acabamento;
+   - modelar todas as paredes
    - todas as lajes de piso e cobertura;
-   - Todas as portas e janelas com dimensões apropriadas;
+   - todas as portas e janelas com dimensões apropriadas;
    - as paredes de cortina e a porta da parede de cortina corretamente modeladas;
+   - modelar a escada e o corrimão conforme projeto;
+   - <s>colocar componentes sanitários nos banheiros</s>
    - <s>uma modelagem básica da cobertura da casa;</s>
    - <s>O terreno modelado como uma superfície plana.</s>
    
