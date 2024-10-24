@@ -124,7 +124,7 @@ Outros conjuntos de plantas equivalentes podem ser apresentadas desde que aprova
 [Corte AA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-corteaa.pdf)
 
 
-[FACHADA SUL](https://github.com/255ribeiro/Turmas_FFR/raw/master/2023.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-fch_sul.pdf)
+[FACHADA SUL](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-fch_sul.pdf)
 
 
 [COBERTURA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2024.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-cobertura.pdf)
