@@ -33,11 +33,11 @@
 
 * 26/03 - qua - Gerando mapas com os dados do IBGE parte 2- gerando mapas.
 
-* 31/03 - seg - Revisão do assunto e tirando dúvidas sobre o trabalho. Entrega do trabalho – AV1.
+* 31/03 - seg - Revisão do assunto e tirando dúvidas sobre o trabalho. Entrega do trabalho – [AV1](av1_edital_mpsd.md).
 
 #### Abril
 
-* 02/04 - qua - Apresentação do ambiente de trabalho – parte 1. Modelagem direta no Rhinoceros.
+* 05/04 - qua - Apresentação do ambiente de trabalho – parte 1. Modelagem direta no Rhinoceros.
 
 * 07/04 - seg - Apresentação do ambiente de trabalho – parte 2. Modelagem direta no Rhinoceros.
 
@@ -53,7 +53,7 @@
 
 * 28/04 - seg - Desenvolvimento de modelos paramétricos: Modelando com atratores parte 2.
 
-* 30/04 - qua - Revisão do assunto e tirando dúvidas sobre o trabalho. Entrega do trabalho – AV2.
+* 30/04 - qua - Revisão do assunto e tirando dúvidas sobre o trabalho. Entrega do trabalho – [AV2](av2_edital_mpsd.md).
 
 
 
