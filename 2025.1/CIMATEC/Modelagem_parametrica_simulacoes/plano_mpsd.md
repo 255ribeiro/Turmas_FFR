@@ -1,7 +1,7 @@
 # Modelagem paramétrica e simulações digitais
 
 ## Plano de aulas e avaliação
-### 2023.1
+### 2025.1
 
 #### Fevereiro
 
