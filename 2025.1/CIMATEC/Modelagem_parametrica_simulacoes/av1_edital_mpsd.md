@@ -44,7 +44,7 @@ Orientações gerais
 
 </h4>
 
-A avaliação será baseada nos exercícios desenvolvidos em sala de aula.Os trabalhos podem ser feitos de forma individual ou em grupos até cinco(5) alunos. O nome dos alunos de cada grupo devem aparecer no início de cada programa como comentários.
+A avaliação será baseada nos exercícios desenvolvidos em sala de aula.Os trabalhos podem ser feitos de forma individual ou em grupos de até cinco(5) alunos. O nome dos alunos de cada grupo devem aparecer no início de cada programa como comentários.
 
 Os códigos devem ser comentados, demonstrando o entendimento do programa.
 
@@ -58,7 +58,7 @@ Itens da entrega
     - entrada: valor da distância entre os pavimentos da escada
     - saída: número de espelhos, altura dos espelhos e profundidade dos pisos
     - critério: a escada deve ter o menor número de espelhos, com altura máxima menor ou igual a 0.18m
-    - Enviar também o fluxograma do algoritmo.
+    <!-- - Enviar também o fluxograma do algoritmo. -->
 
 
 1. Algoritmo das cotas dos pavimentos - por altura máxima:
