@@ -75,7 +75,7 @@ Itens da entrega
     - critério: calcular todas as cotas de nível de um edifício, tendo o primeiro nível como a cota inicial e  as outras cotas para o maior número de pavimentos desde que não ultrapassem a cota da altura máxima informada 
 
 
-1. Algoritmo da manha de pontos regulares:
+1. Algoritmo da malha de pontos regulares:
     - Algoritmo que gera a imagem de uma malha de ponto regulares
     - entradas: distância entre pontos em x, distância entre os pontos em y, número de pontos em x, número de pontos em y
     - saída: imagem gerada com a biblioteca matplotlib da malha de pontos

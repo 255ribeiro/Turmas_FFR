@@ -6,6 +6,15 @@ authors = ["Fernando Ferraz Ribeiro <ffribeiro@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+numpy = "^2.2.5"
+pandas = "^2.2.3"
+geopandas = "^1.0.1"
+mapclassify = "^2.8.1"
+libpysal = "^4.13.0"
+splot = "^1.1.7"
+esda = "^2.7.0"
+pysal = "^25.1"
+contextily = "^1.6.2"
 
 
 [tool.poetry.dev-dependencies]
