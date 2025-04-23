@@ -39,37 +39,25 @@ Objetivo da avaliação
 Orientações Gerais
 </h4>
 
-Os discentes devem se dividir em grupos com 2 ou 3 integrantes cada. Cada um dos grupos deve desenvolver um estudo de um algoritmo dentre os listados abaixo (definidos por sorteio):
-  
-  1. Pavilhão com estrutura tênsil.
-  1. Cobertura com estrutura *waffle*.
-  1. Fachada utilizando atratores.
-  1. Elemento construtivo ou estudo de arquitetura utilizando fields.
-  1. Elemento construtivo ou estudo de arquitetura baseado em diagramas de Voronoi 3D.
-  1. Elemento construtivo ou estudo de arquitetura baseado em *metaballs*.
-  1. Elemento construtivo ou estudo de arquitetura utilizando morph.
+Os alunos devem entregar arquivos do grasshopper (.gh) contendo os algoritmos, e do rhinoceros (.3dm) contendo estudos de formas (*bakes*) de modelos gerados pelos algoritmos. Para cada algoritmo (.gh) devem ser enviados três (3) arquivos do Rhinoceros contendo diferentes flexões do modelo.
 
 <h4 style="background:lightblue">
 Itens de avaliação
 </h4>
 
-* Conjunto de slides apresentando os detalhes da implementação e utilização do algoritmo, apresentar 3 flexões do modelo e as configurações de entrada que geraram cada uma das flexões.
-  
-* Apresentar para a turma o funcionamento do algoritmo.
-  
-* Rodar a versão do algoritmo apresentada e exemplificar o controle e a geração de flexões deste modelo.
+A entrega deve conter modelos relativos aos seguintes algoritmos desenvolvidos em sala:
 
-<h4 style = "background:lightblue">
-Formato da entrega e apresentação
-</h4>
+1. Sequência de pilares
+2. Edf. de múltiplos pavimentos
+3. Edf. de Múltiplos pavimentos com deslocamento aleatório dos andares
+4. treliças planas
+<!-- 5. treliças espaciais -->
+6. um modelo baseado em atratores.
+
+<h4 style="background:lightblue"> Formato da entrega e envio</h4>
 
   Os trabalhos devem ser enviados em arquivo zipado pelo Canvas da disciplina.
-  O arquivo deve conter:
-    - Os slides da apresentação.
-    - O(s) algoritmo(s) utilizado(s) em arquivo .gh e o arquivo base do .3dm utilizado para a geração.
-    - Arquivos .3dm com as três flexões do modelo geradas pelo grupo.
-  
-  Os alunos devem apresentar o algoritmo para a turma em data definida no cronograma.
+
 
 -----
 
