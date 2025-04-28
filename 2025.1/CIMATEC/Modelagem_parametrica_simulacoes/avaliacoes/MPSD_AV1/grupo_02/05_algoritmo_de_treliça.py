@@ -55,6 +55,7 @@ ax.plot(coord_x, diag_y) #plotagem das linhas diagonais ligando os pontos de coo
 
 ax.axis("off") #apagar os eixos
 ax.set_aspect("equal") #adequar a proporção da tela e imagem
+plt.show()
 
 5//2 , 5%2
 # // realiza uma divisão inteira, % mostra o resto da divisão

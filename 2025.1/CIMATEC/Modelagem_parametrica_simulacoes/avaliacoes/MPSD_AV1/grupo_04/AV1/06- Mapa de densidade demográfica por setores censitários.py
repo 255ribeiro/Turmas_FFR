@@ -12,10 +12,10 @@ Original file is located at
 # equipe: Larissa Rios, Sofia Brêda, Gabriella Carvalho, Maria Fernanda Libório
 
 #instalando
-!pip install geopandas shapely mapclassify libpysal splot esda pysal contextily
-!pip install --upgrade pyshp
-!pip install --upgrade descartes
-!pip install --upgrade fiona
+# !pip install geopandas shapely mapclassify libpysal splot esda pysal contextily
+# !pip install --upgrade pyshp
+# !pip install --upgrade descartes
+# !pip install --upgrade fiona
 
 #importando os pacotes que serão utilizados
 import pandas as pd
