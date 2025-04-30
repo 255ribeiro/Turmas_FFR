@@ -46,15 +46,13 @@ Orientações Gerais
 
 Os discentes devem se dividir em 8 grupos com 3 integrantes cada. Cada um dos grupos deve desenvolver um algoritmo seguindo um dos temas abaixo (definidos por sorteio):
 
-1 - Estrutura tênsil com o Kangaroo2.
-2 - Cobertura com estrutura *waffle*
-3 - Fachada utilizando atratores
-4 - Elemento construtivo ou estudo de arquitetura utilizando fields
-5 - Elemento construtivo ou estudo de arquitetura baseado em diagramas de voronoi 3D
-6 - Elemento construtivo ou estudo de arquitetura baseado em *metaballs*
-7 - Elemento construtivo ou estudo de arquitetura utilizando morph
-
-
+  1. Estrutura tênsil com o Kangaroo2.
+  1. Elemento construtivo com estrutura *waffle*
+  1. Elemento construtivo utilizando atratores
+  1. Elemento construtivo ou estudo de arquitetura utilizando fields
+  1. Elemento construtivo ou estudo de arquitetura baseado em diagramas de voronoi 3D
+  1. Elemento construtivo ou estudo de arquitetura baseado em *metaballs*
+  1. Elemento construtivo ou estudo de arquitetura utilizando morph
 
 <h4 style="background:lightblue">
 Apresentação do trabalho
