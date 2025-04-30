@@ -53,7 +53,7 @@ Os discentes devem se dividir em 8 grupos com 3 integrantes cada. Cada um dos gr
 5 - Elemento construtivo ou estudo de arquitetura baseado em diagramas de voronoi 3D
 6 - Elemento construtivo ou estudo de arquitetura baseado em *metaballs*
 7 - Elemento construtivo ou estudo de arquitetura utilizando morph
-8 - Forma orgânica controlada pelo graph mapper
+
 
 
 <h4 style="background:lightblue">
