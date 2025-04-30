@@ -1,4 +1,4 @@
-# Atividade de Avaliação 02: Edital
+# Atividade de Avaliação 02: Edital 
 
 -----
 
@@ -14,16 +14,21 @@ CURSO DE ARQUITETURA E URBANISMO
 
 </span>
 
+
 </div>
 
 <br><br><br><br><br><br>
 
+
 <div>
     <span style="float: left;">Docente: Prof: Msc. Fernando Ferraz Ribeiro</span>
-    <span style="float: right;">Semestre: 2024.1</span>
+    <span style="float: right;">Semestre: 2025.1</span>
 </div>
 
 <br>
+
+---
+
 
 <h4 style="background : lightblue;">
 
@@ -39,28 +44,40 @@ Objetivo da avaliação
 Orientações Gerais
 </h4>
 
-Os alunos devem entregar arquivos do grasshopper (.gh) contendo os algoritmos, e do rhinoceros (.3dm) contendo estudos de formas (*bakes*) de modelos gerados pelos algoritmos. Para cada algoritmo (.gh) devem ser enviados três (3) arquivos do Rhinoceros contendo diferentes flexões do modelo.
+Os discentes devem se dividir em 8 grupos com 3 integrantes cada. Cada um dos grupos deve desenvolver um algoritmo seguindo um dos temas abaixo (definidos por sorteio):
+
+1 - Estrutura tênsil com o Kangaroo2.
+2 - Cobertura com estrutura *waffle*
+3 - Fachada utilizando atratores
+4 - Elemento construtivo ou estudo de arquitetura utilizando fields
+5 - Elemento construtivo ou estudo de arquitetura baseado em diagramas de voronoi 3D
+6 - Elemento construtivo ou estudo de arquitetura baseado em *metaballs*
+7 - Elemento construtivo ou estudo de arquitetura utilizando morph
+8 - Forma orgânica controlada pelo graph mapper
+
 
 <h4 style="background:lightblue">
-Itens de avaliação
+Apresentação do trabalho
 </h4>
 
-A entrega deve conter modelos relativos aos seguintes algoritmos desenvolvidos em sala:
+As equipes devem apresentar:
 
-1. Sequência de pilares
-2. Edf. de múltiplos pavimentos
-3. Edf. de Múltiplos pavimentos com deslocamento aleatório dos andares
-4. treliças planas
-<!-- 5. treliças espaciais -->
-6. um modelo baseado em atratores.
+- o algoritmo sorteado, explicando seu funcionamento.
+- os principais componentes do grasshopper utilizados
+- as fontes de pesquisa
+- alternativas de forma geradas pelo algoritmo (flexões do modelo).
+- rodar um algoritmo relacionado com o tema.
 
-<h4 style="background:lightblue"> Formato da entrega e envio</h4>
+
+<h4 style="background:lightblue"> Formato da entrega e apresentação</h4>
 
   Os trabalhos devem ser enviados em arquivo zipado pelo Canvas da disciplina.
+  Os alunos devem apresentar o algoritmo para a turma em data definida no cronograma.
 
 
------
+_______________
 
-#### A data de entrega deve ser consultada no cronograma da disciplina
+#### A data de entrega deve ser consultada no cronograma da disciplina.
 
------
+
+_______________
