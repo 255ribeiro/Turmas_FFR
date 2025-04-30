@@ -60,17 +60,16 @@ Apresentação do trabalho
 
 As equipes devem apresentar:
 
-- o algoritmo sorteado, explicando seu funcionamento.
-- os principais componentes do grasshopper utilizados
+- o algoritmo sorteado, explicando suas características e funcionamento.
+- os principais componentes do grasshopper utilizados naquele algoritmo
 - as fontes de pesquisa
 - alternativas de forma geradas pelo algoritmo (flexões do modelo).
 - rodar um algoritmo relacionado com o tema.
 
 
 <h4 style="background:lightblue"> Formato da entrega e apresentação</h4>
-
-  Os trabalhos devem ser enviados em arquivo zipado pelo Canvas da disciplina.
-  Os alunos devem apresentar o algoritmo para a turma em data definida no cronograma.
+  Os arquivos usados na apresentação deverão ser enviados pelo canvas.
+  Os trabalhos devem ser enviados em arquivo zipado.
 
 
 _______________
