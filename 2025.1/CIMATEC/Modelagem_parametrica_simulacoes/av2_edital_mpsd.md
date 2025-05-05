@@ -79,8 +79,7 @@ As equipes devem apresentar:
 
 <h4 style="background:lightblue"> Formato da entrega e apresentação</h4>
   Os arquivos usados na apresentação deverão ser enviados pelo canvas.
-  Os trabalhos devem ser enviados em arquivo zipado.
-
+  Os trabalhos devem ser enviados como um único arquivo compactado.
 
 _______________
 
