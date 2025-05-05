@@ -55,6 +55,16 @@ Os discentes devem se dividir em 8 grupos com 3 integrantes cada. Cada um dos gr
   1. Elemento construtivo ou estudo de arquitetura utilizando morph
 
 <h4 style="background:lightblue">
+Orientações
+</h4>
+
+As equipes devem apresentar um algoritmo, criado por eles ou reproduzido de alguma fonte (neste caso a fonte deve ser citada).
+
+Existem sobreposições entre os temas (e.g. algoritmos que tratam de diagramas de voronoi e atratores). Neste caso a equipe deve focar sua explicação no tema sorteado. Podendo apenas citar o outro tema associado.
+
+As equipes devem se organizar par que não apresentem o mesmo algoritmo. Sendo as apresentações sobre o mesmo tema ou sobre temas diferentes.
+
+<h4 style="background:lightblue">
 Apresentação do trabalho
 </h4>
 
