@@ -41,7 +41,7 @@ Objetivo da avaliação
 3. Aplicar algoritmos na geração de formas.
 
 <h4 style="background:lightblue">
-Orientações Gerais
+Escopo da Avaliação
 </h4>
 
 Os discentes devem se dividir em 8 grupos com 3 integrantes cada. Cada um dos grupos deve desenvolver um algoritmo seguindo um dos temas abaixo (definidos por sorteio):
@@ -55,7 +55,7 @@ Os discentes devem se dividir em 8 grupos com 3 integrantes cada. Cada um dos gr
   1. Elemento construtivo ou estudo de arquitetura utilizando morph
 
 <h4 style="background:lightblue">
-Orientações
+Orientações Complementares
 </h4>
 
 As equipes devem apresentar um algoritmo, criado por eles ou reproduzido de alguma fonte (neste caso a fonte deve ser citada).
