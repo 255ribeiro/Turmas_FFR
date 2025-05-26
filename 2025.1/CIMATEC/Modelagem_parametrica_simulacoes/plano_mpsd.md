@@ -65,33 +65,33 @@
   
 * 12/05 - seg - rInteroperabilidade – parte 2 – Archicad - Análise de questões construtivas - Associação com modelos BIM.
   
-* 14/05 - qua - Simulações digitais com o Laydybug tools.
+* 14/05 - qua - Orientação
 
-* 19/05 - seg - Simulações digitais com o Laydybug tools.
+* 19/05 - seg - Apresentação dos trabalhos
 
-* 21/05 - qua - Simulações digitais com o Laydybug tools.
+* 21/05 - qua - Apresentação dos trabalhos
 
 * 26/05 - seg - Simulações digitais com o Laydybug tools.
 
-* 28/05 - qua - Revisão e orientação.
+* 28/05 - qua - Simulações digitais com o Laydybug tools.
 
 #### Junho
 
-* 02/06 - seg - Revisão e orientação.
+* 02/06 - seg - Simulações digitais com o Laydybug tools.
 
-* 04/06 - qua - Revisão e orientação.
+* 04/06 - qua - Simulações digitais com o Laydybug tools.
 
-* 09/06 - seg - Revisão e orientação.
+* 09/06 - seg - Simulações digitais com o Laydybug tools.
 
-* 11/06 - qua - Revisão e orientação.
+* 11/06 - qua - Simulações digitais com o Laydybug tools.
 
-* 16/06 - seg - Revisão e orientação.
+* 16/06 - seg - Simulações digitais com o Laydybug tools.
 
 * 18/06 - qua - Revisão e orientação.
 
-* 25/06 - qua -Revisão e orientação.
+* 25/06 - qua - Revisão e orientação.
 
-* 30/06 - seg - Entrega via Canvas do [AV3](av3_edital_mpsd.md).
+* 30/06 - seg - Entrega via Canvas da Avaliação AV3 <!-- * [Edital](av3_edital_mpsd.md). -->
 
 #### Julho
 
