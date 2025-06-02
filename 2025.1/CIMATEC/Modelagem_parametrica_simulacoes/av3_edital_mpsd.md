@@ -59,7 +59,7 @@ Outras propostas de projeto devem ser apresentadas e discutidas com o professor.
 
 * Os trabalhos serão desenvolvidos e orientados em sala de aula.
 * Aulas teórico/práticas serão ministradas para orientar a atividade.
-* Os projetos devem ser implantados em um terreno real, levando em conta o entrono e a topografia.
+<!-- * Os projetos devem ser implantados em um terreno real, levando em conta o entrono e a topografia. -->
 * O terreno é de livre escolha dos discentes.
 
 <h4 style="background:lightblue">
