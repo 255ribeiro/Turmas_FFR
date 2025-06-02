@@ -22,7 +22,7 @@ CURSO DE ARQUITETURA E URBANISMO
 
 <div>
     <span style="float: left;">Docente: Prof: Msc. Fernando Ferraz Ribeiro</span>
-    <span style="float: right;">Semestre: 2024.1</span>
+    <span style="float: right;">Semestre: 2025.1</span>
 </div>
 
 <br>
@@ -43,17 +43,22 @@ Objetivo da avaliação
 Orientações Gerais
 </h4>
 
-Este trabalho se configura como a concepção e detalhamento de um projeto arquitetônico gerado e detalhado por algoritmos generativos paramétricos. A avaliação desta unidade se configura como uma atividade única que será desenvolvida ao longo do final do semestre e deverá ser entregue no ultimo dia de aula (verificar calendário).
+Este trabalho é um exercício de simulação de condições ambientais para um estudo desenvolvido pela equipe. O estudo deve ser desenvolvido a partir do algoritmo desenvolvido na unidade anterior.
 
-Os discentes deverão conceber um projeto utilizado, ao menos parcialmente, modelagem paramétrica. O projeto deve se enquadrar em uma das categorias abaixo:
+Os estudos de forma devem estar em um tereno real, modelado com curvas de nível e contendo volumes genéricos representando as edificações do entorno imediato.
 
-* Uma torre com múltiplos pavimentos
-* Um pavilhão de exposições
+As simulações devem utilizar o addon LadyBug Tools. As simulações estudadas são:
+
+* Horas de insolação na superfície do terreno.
+* Radiação solar na superfície do terreno.
+* Radiação solar na fachada da edificação.
+
+Cada simulação deve ser realizada em quatro dias diferentes, correspondendo aos equinócios e solstícios.
 
 Outras propostas de projeto devem ser apresentadas e discutidas com o professor. Os seguintes critérios devem ser seguidos pelos discentes:
 
 * Os trabalhos serão desenvolvidos e orientados em sala de aula.
-* Auas teórico/práticas serão ministradas para orientar a atividade.
+* Aulas teórico/práticas serão ministradas para orientar a atividade.
 * Os projetos devem ser implantados em um terreno real, levando em conta o entrono e a topografia.
 * O terreno é de livre escolha dos discentes.
 
@@ -61,9 +66,9 @@ Outras propostas de projeto devem ser apresentadas e discutidas com o professor.
 Itens da entrega
 </h4>
 
-* Arquivo(s) com modelo(s) gerado(s) no Rhinoceros 3D;
-* Arquivo(s) do grasshopper utilizados;
-* Um painel (banner) apresentando o modelo criado (PDF);
+* Arquivo(s) com modelo(s) gerado(s) no Rhinoceros 3D.
+* Arquivo(s) do grasshopper utilizados.
+* Imagens das simulações geradas.
 * Outros arquivos com modelo(s) 3D utilizados.
 
 <h4 style="background:lightblue"> Formato da entrega e envio</h4>

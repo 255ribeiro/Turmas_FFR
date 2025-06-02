@@ -91,7 +91,7 @@
 
 * 25/06 - qua - Revisão e orientação.
 
-* 30/06 - seg - Entrega via Canvas da Avaliação AV3 <!-- * [Edital](av3_edital_mpsd.md). -->
+* 30/06 - seg - Entrega via Canvas da Avaliação AV3 [Edital](av3_edital_mpsd.md).
 
 #### Julho
 
