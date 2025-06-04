@@ -52,6 +52,8 @@ Os estudos de forma devem estar:
 * Em um tereno real, modelado com curvas de nível, ruas, calçadas e terrenos do entorno; e contendo volumes genéricos representando as edificações do entorno imediato.
 * Ou em um terreno fictício, contendo o terreno, calçadas e ruas e alguns terrenos e volumes genéricos representando as edificações do entrono imediato.
 
+Um modelo gerado através do algoritmo gerado na avaliação AV2 deve ser implantado no tereno.
+
 As simulações devem utilizar o addon LadyBug Tools. As simulações estudadas são:
 
 * Diagrama do percurso anual do sol.
