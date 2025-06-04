@@ -56,7 +56,7 @@ Um modelo gerado através do algoritmo desenvolvido na avaliação AV2 deve ser 
 
 As simulações devem utilizar o addon LadyBug Tools. As simulações estudadas são:
 
-* Diagrama do percurso anual do sol.
+* Diagrama do percurso anual do sol (carta solar).
 * Horas de insolação na superfície do terreno.
 * Radiação solar na superfície do terreno.
 * Radiação solar na fachada da edificação.
