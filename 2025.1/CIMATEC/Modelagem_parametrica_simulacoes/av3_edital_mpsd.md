@@ -45,10 +45,12 @@ Orientações Gerais
 
 Este trabalho é um exercício de simulação de condições ambientais para um estudo desenvolvido pela equipe. O estudo deve ser desenvolvido a partir do algoritmo desenvolvido na unidade anterior.
 
+Serão as mesmas equipes do edital AV2.
+
 Os estudos de forma devem estar:
 
-* Em um tereno real, modelado com curvas de nível e contendo volumes genéricos representando as edificações do entorno imediato.
-* Ou em um terreno fictício, contendo o terreno, calçadas e ruas e alguns terrenos e edificações do entrono imediato.
+* Em um tereno real, modelado com curvas de nível, ruas, calçadas e terrenos do entorno; e contendo volumes genéricos representando as edificações do entorno imediato.
+* Ou em um terreno fictício, contendo o terreno, calçadas e ruas e alguns terrenos e volumes genéricos representando as edificações do entrono imediato.
 
 As simulações devem utilizar o addon LadyBug Tools. As simulações estudadas são:
 
