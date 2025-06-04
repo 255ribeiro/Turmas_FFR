@@ -45,10 +45,14 @@ Orientações Gerais
 
 Este trabalho é um exercício de simulação de condições ambientais para um estudo desenvolvido pela equipe. O estudo deve ser desenvolvido a partir do algoritmo desenvolvido na unidade anterior.
 
-Os estudos de forma devem estar em um tereno real, modelado com curvas de nível e contendo volumes genéricos representando as edificações do entorno imediato.
+Os estudos de forma devem estar:
+
+* Em um tereno real, modelado com curvas de nível e contendo volumes genéricos representando as edificações do entorno imediato.
+* Ou em um terreno fictício, contendo o terreno, calçadas e ruas e alguns terrenos e edificações do entrono imediato.
 
 As simulações devem utilizar o addon LadyBug Tools. As simulações estudadas são:
 
+* Diagrama do percurso anual do sol.
 * Horas de insolação na superfície do terreno.
 * Radiação solar na superfície do terreno.
 * Radiação solar na fachada da edificação.
