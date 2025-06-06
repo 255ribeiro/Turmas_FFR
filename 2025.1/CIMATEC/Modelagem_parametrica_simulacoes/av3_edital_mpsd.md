@@ -5,11 +5,11 @@
 <div style= "align: top;">
 
 <span style="float: left;">
-<img src="../../../figs_gerais/senai_logo.png" width="150">
+<img src="../../../figs_gerais/Universidade_SENAI_CIMATEC.png" width="150">
 
 </span>
 <span style="float: right;"><br>
-CENTRO UNIVERSITÁRIO SENAI CIMATEC <br>
+UNIVERSIDADE SENAI CIMATEC <br>
 CURSO DE ARQUITETURA E URBANISMO
 
 </span>
