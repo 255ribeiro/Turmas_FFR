@@ -52,14 +52,14 @@ Os estudos de forma devem estar:
 * Em um tereno real, modelado com curvas de nível, ruas, calçadas e terrenos do entorno; e contendo volumes genéricos representando as edificações do entorno imediato.
 * Ou em um terreno fictício, contendo o terreno, calçadas e ruas e alguns terrenos e volumes genéricos representando as edificações do entrono imediato.
 
-Um modelo gerado através do algoritmo desenvolvido na avaliação AV2 deve ser implantado no tereno.
+Um estudo de forma gerado através do algoritmo desenvolvido na avaliação AV2 deve ser implantado no tereno que servirão de bases para a simulação.
 
 As simulações devem utilizar o addon LadyBug Tools. As simulações estudadas são:
 
 1. Diagrama do percurso anual do sol (carta solar).
-1. Horas de insolação na superfície do terreno.
-1. Radiação solar na superfície do terreno.
-1. Radiação solar na fachada da edificação.
+2. Horas de insolação na superfície do terreno.
+3. Radiação solar na superfície do terreno.
+4. Radiação solar na fachada da edificação.
 
 As simulações 2 e 3 devem ser realizada em quatro dias diferentes, correspondendo aos equinócios e solstícios e registrados através de imagens da vista superior da proposta. A simulação 4 deve ser realizada no solstício de verão do hemisfério. Deve-se registar uma série de vistas perspetivadas que mostrem o todo da proposta.
 
@@ -81,7 +81,7 @@ Itens da entrega
 
 <h4 style="background:lightblue"> Formato da entrega e envio</h4>
 
-  Os trabalhos devem ser enviados em arquivo zipado pelo Canvas da disciplina.
+Os trabalhos devem ser enviados em um único arquivo compactado (zip, rar, 7z, tar.gz) pelo Canvas da disciplina.
 
 
 _______________
