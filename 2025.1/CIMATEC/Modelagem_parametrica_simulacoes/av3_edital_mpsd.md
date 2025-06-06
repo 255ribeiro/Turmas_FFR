@@ -56,12 +56,12 @@ Um modelo gerado através do algoritmo desenvolvido na avaliação AV2 deve ser 
 
 As simulações devem utilizar o addon LadyBug Tools. As simulações estudadas são:
 
-* Diagrama do percurso anual do sol (carta solar).
-* Horas de insolação na superfície do terreno.
-* Radiação solar na superfície do terreno.
-* Radiação solar na fachada da edificação.
+1. Diagrama do percurso anual do sol (carta solar).
+1. Horas de insolação na superfície do terreno.
+1. Radiação solar na superfície do terreno.
+1. Radiação solar na fachada da edificação.
 
-Cada simulação deve ser realizada em quatro dias diferentes, correspondendo aos equinócios e solstícios.
+As simulações 2 e 3 devem ser realizada em quatro dias diferentes, correspondendo aos equinócios e solstícios e registrados através de imagens da vista superior da proposta. A simulação 4 deve ser realizada no solstício de verão do hemisfério. Deve-se registar uma série de vistas perspetivadas que mostrem o todo da proposta.
 
 Outras propostas de projeto devem ser apresentadas e discutidas com o professor. Os seguintes critérios devem ser seguidos pelos discentes:
 
@@ -76,7 +76,7 @@ Itens da entrega
 
 * Arquivo(s) com modelo(s) gerado(s) no Rhinoceros 3D.
 * Arquivo(s) do grasshopper utilizados.
-* Imagens das simulações geradas.
+* Arquivo PDF com as imagens geradas pelas simulações.
 * Outros arquivos com modelo(s) 3D utilizados.
 
 <h4 style="background:lightblue"> Formato da entrega e envio</h4>
