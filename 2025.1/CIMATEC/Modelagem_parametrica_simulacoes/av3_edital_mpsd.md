@@ -84,10 +84,6 @@ Itens da entrega
 
 Os trabalhos devem ser enviados em um único arquivo compactado (zip, rar, 7z, tar.gz) pelo Canvas da disciplina.
 
+-----
 
-_______________
-
-#### A data de entrega deve ser consultada no cronograma da disciplina.
-
-
-_______________
+<h5>A data de entrega deve ser consultada no cronograma da disciplina.</h5>
