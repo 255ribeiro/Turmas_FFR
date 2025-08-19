@@ -19,4 +19,3 @@
 
 1. Data de entrega:
    No canvas da disciplina no dia 21/09/2025
-
