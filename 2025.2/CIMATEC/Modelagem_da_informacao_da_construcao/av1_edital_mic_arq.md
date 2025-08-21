@@ -57,8 +57,9 @@ Diretrizes de modelagem
 1. Os arquivos devem ser modelados em metros.
 2. As paredes devem ser modeladas em um único material com espessura de 14 cm.
 3. Os pilares devem ser modelados em concreto moldado em loco com dimensões 25x30 cm.
-4. Os arquivos das demais disciplinas devem ser linkados uns com os outros para referenciar o trabalho.
-5. A equipe deve organizar os arquivos em pastas de forma a facilitar a geração do modelo federado
+4. Por simplificação o terreno pode ser modelado no arquivo de estruturas, sendo posicionado 5 a 10 cm abaixo da laje do térreo.
+5. Os arquivos das demais disciplinas devem ser linkados uns com os outros para referenciar o trabalho.
+6. A equipe deve organizar os arquivos em pastas de forma a facilitar a geração do modelo federado
 
 <h4 style="background:lightblue">
 Itens da entrega
