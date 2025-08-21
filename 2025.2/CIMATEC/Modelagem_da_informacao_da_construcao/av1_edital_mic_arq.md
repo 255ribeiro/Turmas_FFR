@@ -1,4 +1,4 @@
-# Atividade de Avaliação 01: Edital 
+# Atividade de Avaliação 01: Edital
 
 -----
 
@@ -13,7 +13,6 @@ UNIVERSIDADE SENAI CIMATEC <br>
 CURSO DE ARQUITETURA E URBANISMO / ENGENHARIA CIVIL
 
 </span>
-
 
 </div>
 
@@ -55,6 +54,7 @@ Diretrizes de modelagem
    1. estrutura: contendo vigas pilares e lages.
    2. arquitetura pavimento térreo: contendo paredes portas, janelas do referido pavimento, além da escada.
    3. arquitetura do pavimento superior: contendo paredes portas e janelas do referido pavimento.
+1. Os arquivos devem ser modelados em metros.
 2. As paredes devem ser modeladas em um único material com espessura de 14 cm.
 3. Os pilares devem ser modelados em concreto moldado em loco com dimensões 25x30 cm.
 4. Os arquivos das demais disciplinas devem ser linkados uns com os outros para referenciar o trabalho.
@@ -72,16 +72,7 @@ Itens da entrega
    4. cobertura com estrutura e calhas (apenas para equipes com 4 integrantes).
 2. Arquivos federados no no Navisworks e no formato nativo do software de autoria.
 
-
-
-<h4 style="background:lightblue"> Formato da entrega e envio</h4>
-
  Os trabalhos devem ser enviados em arquivo compactado (.zip, .rar, .7z, .tar.gz) pelo Canvas da disciplina em atividade adequada.
 
-_______________
-
-#### Entrega
-   No canvas da disciplina no dia 21/09/2025
-
-
-_______________
+<h4 style="background:lightblue"> Data de entrega</h4>
+   dia 21/09/2025
