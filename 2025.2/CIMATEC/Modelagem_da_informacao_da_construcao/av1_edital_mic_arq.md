@@ -20,7 +20,7 @@ CURSO DE ARQUITETURA E URBANISMO / ENGENHARIA CIVIL
 <br><br><br><br><br><br>
 
 <div>
-    <span style="float: left;">Docente: Prof: Msc. Fernando Ferraz Ribeiro</span>
+    <span style="float: left;">Docente: Prof: Dr. Fernando Ferraz Ribeiro</span>
     <span style="float: right;">Semestre: 2024.1</span>
 </div>
 
