@@ -1,21 +1,87 @@
-# Modelagem da Informação da Construção
+# Atividade de Avaliação 01: Edital 
 
-## Edital da AV1
+-----
 
-### Atividade em equipe (3 ou 4 membros)
+<div style= "align: top;">
 
-1. A atividade consiste na modelagem de um projeto fornecido pelo professor.
-1. A modelagem deve ser feita em múltiplos arquivos:
+<span style="float: left;">
+<img src="../../../figs_gerais/Universidade_SENAI_CIMATEC.png" width="150">
+
+</span>
+<span style="float: right;"><br>
+UNIVERSIDADE SENAI CIMATEC <br>
+CURSO DE ARQUITETURA E URBANISMO / ENGENHARIA CIVIL
+
+</span>
+
+
+</div>
+
+<br><br><br><br><br><br>
+
+<div>
+    <span style="float: left;">Docente: Prof: Msc. Fernando Ferraz Ribeiro</span>
+    <span style="float: right;">Semestre: 2024.1</span>
+</div>
+
+<br>
+
+---
+
+<h4 style="background:lightblue">
+
+Objetivo da avaliação
+
+</h4>
+
+1. Exercitar a modelagem BIM;
+2. Entender a importância dos dados e de sua organização em projetos BIM;
+3. Aplicar conceitos de fluxo de trabalho BIM.
+
+<h4 style="background:lightblue">
+Orientações gerais
+
+</h4>
+
+A atividade consiste na modelagem de um projeto fornecido pelo professor.
+
+O projeto deve ser desenvolvido em equipes de 2, 3 ou 4 discentes.
+
+<h4 style="background:lightblue">
+Diretrizes de modelagem
+</h4>
+
+1. A modelagem deve ser dividida em alguns arquivos:
+   1. estrutura: contendo vigas pilares e lages.
+   2. arquitetura pavimento térreo: contendo paredes portas, janelas do referido pavimento, além da escada.
+   3. arquitetura do pavimento superior: contendo paredes portas e janelas do referido pavimento.
+2. As paredes devem ser modeladas em um único material com espessura de 14 cm.
+3. Os pilares devem ser modelados em concreto moldado em loco com dimensões 25x30 cm.
+4. Os arquivos das demais disciplinas devem ser linkados uns com os outros para referenciar o trabalho.
+5. A equipe deve organizar os arquivos em pastas de forma a facilitar a geração do modelo federado
+
+<h4 style="background:lightblue">
+Itens da entrega
+
+</h4>
+
+1. Arquivos com os modelos BIM em formato IFC e o formato nativo do programa de autoria
    1. Arquivo de estruturas
    2. arquitetura do pav térreo
    3. arquitetura do primeiro pavimento
-   4. cobertura com estrutura e calhas.
-1. Um Arquivo de template deve ser criado para facilitar a integração entre os arquivos no modelo federado.
+   4. cobertura com estrutura e calhas (apenas para equipes com 4 integrantes).
+2. Arquivos federados no no Navisworks e no formato nativo do software de autoria.
 
 
-1. Um Modelo federado deve ser entregue no formato Revit e no formato Navisworks, contendo links para os aquivos de modelagem.
-1. A equipe deve organizar os arquivos em pastas de forma a facilitar a geração do modelo federado.
-1. Todos os arquivos devem ser entregues em formato compactado, contendo a estrutura de  pastas proposta pela equipe.
 
-1. Data de entrega:
+<h4 style="background:lightblue"> Formato da entrega e envio</h4>
+
+ Os trabalhos devem ser enviados em arquivo compactado (.zip, .rar, .7z, .tar.gz) pelo Canvas da disciplina em atividade adequada.
+
+_______________
+
+#### Entrega
    No canvas da disciplina no dia 21/09/2025
+
+
+_______________
