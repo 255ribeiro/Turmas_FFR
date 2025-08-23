@@ -71,7 +71,7 @@ Itens da entrega
    2. arquitetura do pav térreo
    3. arquitetura do primeiro pavimento
    4. cobertura com estrutura e calhas (apenas para equipes com 4 integrantes).
-2. Arquivos federados no no Navisworks e no formato nativo do software de autoria.
+2. Arquivos federados em um programas utilizados para gestão(Navisworks, BimCollab Zoom, Ifc Open Viewer, Bonsai BIM ...) e no formato nativo do software de autoria.
 
  Os trabalhos devem ser enviados em arquivo compactado (.zip, .rar, .7z, .tar.gz) pelo Canvas da disciplina em atividade adequada.
 
