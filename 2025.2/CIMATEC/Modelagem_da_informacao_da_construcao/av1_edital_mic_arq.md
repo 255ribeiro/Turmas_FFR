@@ -52,8 +52,8 @@ Diretrizes de modelagem
 
 1. A modelagem deve ser dividida em alguns arquivos:
    1. estrutura: contendo vigas pilares e lages.
-   2. arquitetura pavimento térreo: contendo paredes portas, janelas do referido pavimento, além da escada.
-   3. arquitetura do pavimento superior: contendo paredes portas e janelas do referido pavimento.
+   2. arquitetura pavimento térreo: contendo paredes, portas, janelas e forros do referido pavimento, além da escada.
+   3. arquitetura do pavimento superior: contendo paredes, portas, janelas e forros do referido pavimento.
 1. Os arquivos devem ser modelados em metros.
 2. As paredes devem ser modeladas em um único material com espessura de 14 cm.
 3. Os pilares devem ser modelados em concreto moldado em loco com dimensões 20x30 cm.
