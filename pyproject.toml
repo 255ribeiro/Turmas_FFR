@@ -19,7 +19,7 @@ contextily = "^1.6.2"
 openpyxl = "^3.1.5"
 
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
 
 ipykernel = "^6.18.3"
 
