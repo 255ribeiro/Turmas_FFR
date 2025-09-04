@@ -52,14 +52,17 @@ Diretrizes de modelagem
 
 1. A modelagem deve ser dividida em alguns arquivos:
    1. estrutura: contendo vigas pilares e lages.
-   2. arquitetura pavimento térreo: contendo paredes, portas, janelas e forros do referido pavimento, além da escada.
-   3. arquitetura do pavimento superior: contendo paredes, portas, janelas e forros do referido pavimento.
-1. Os arquivos devem ser modelados em metros.
-2. As paredes devem ser modeladas em um único material com espessura de 14 cm.
-3. Os pilares devem ser modelados em concreto moldado em loco com dimensões 20x30 cm.
-4. Por simplificação o terreno pode ser modelado no arquivo de estruturas, sendo posicionado 5 a 10 cm abaixo da laje do térreo.
-5. Os arquivos das demais disciplinas devem ser linkados uns com os outros para referenciar o trabalho.
-6. A equipe deve organizar os arquivos em pastas de forma a facilitar a modelagem integrada e a geração dos modelos federados.
+   2. arquitetura pavimento térreo: contendo paredes, portas, janelas e forros do referido pavimento.
+   3. arquitetura do pavimento superior: contendo paredes, portas, janelas e forros do referido pavimento. 
+   4. cobertura com estrutura e calhas (apenas para equipes com 4 integrantes).
+2. Os arquivos devem ser modelados em metros.
+3. A escada pode ser modelada no arquivo de Arquitetura do térreo OU no arquivo de estruturas.
+4. As paredes devem ser modeladas em um único material com espessura de 14 cm.
+5. Os pilares devem ser modelados em concreto moldado em loco com dimensões 20x30 cm.
+6. As vigas devem ser modeladas entre os pilares e nas bordas com das dimensões b = 14 h = 20.
+7. Por simplificação o terreno pode ser modelado no arquivo de estruturas, sendo posicionado 5 a 10 cm abaixo da laje do térreo.
+8. Os arquivos das demais disciplinas devem ser linkados uns com os outros para referenciar o trabalho.
+9. A equipe deve organizar os arquivos em pastas de forma a facilitar a modelagem integrada e a geração dos modelos federados.
 
 <h4 style="background:lightblue">
 Itens da entrega
