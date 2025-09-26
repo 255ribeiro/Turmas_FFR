@@ -6,7 +6,7 @@
 
 #### Tecnologias digitais I
 
-[plano de curso](./2025.2/UFBA/dt1/cronograma_dt1.md)
+[plano de curso](./2025.2/UFBA/td1/cronograma_td1.md)
 
 ## 2024.2
 
