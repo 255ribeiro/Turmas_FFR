@@ -1,5 +1,13 @@
 # Turmas FFR
 
+## 2025_2
+
+### UFBA
+
+#### Tecnologias digitais I
+
+[plano de curso](./2025.2/UFBA/dt1/cronograma_dt1.md)
+
 ## 2024.2
 
 ### CIMATEC

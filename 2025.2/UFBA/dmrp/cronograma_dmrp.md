@@ -9,8 +9,8 @@
 |   03    | 08/09/2025 |  seg  | Cancelada |
 |   04    | 12/09/2025 |  sex  | Cancelada |
 |   05    | 15/09/2025 |  seg  | Introdução ao desenho técnico  |
-|   06    | 19/09/2025 |  sex  | Desenho técnico e projeções ortogonais - exercício 01 |
-|   07    | 22/09/2025 |  seg  |           |
+|   06    | 19/09/2025 |  sex  | Aula - Desenho técnico e projeções ortogonai |
+|   07    | 22/09/2025 |  seg  | projeções ortogonais - exercício 01 |
 |   08    | 26/09/2025 |  sex  |           |
 |   09    | 29/09/2025 |  seg  |           |
 |   10    | 03/10/2025 |  sex  |           |
