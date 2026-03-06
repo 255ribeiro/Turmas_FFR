@@ -1,9 +1,9 @@
 |  Aulas  |    Data    |  Dia  |  Assunto  |
 |:-------:|:----------:|:-----:|:---------:|
-|   01    | 20/02/2026 |  sex  |           |
-|   02    | 25/02/2026 |  qua  |           |
-|   03    | 27/02/2026 |  sex  |           |
-|   04    | 04/03/2026 |  qua  |           |
+|   01    | 20/02/2026 |  sex  | Apresentação da disciplina |
+|   02    | 25/02/2026 |  qua  | Fundamentos de comutação gráfica |
+|   03    | 27/02/2026 |  sex  | BIM - Conceitos e fundamentos |
+|   04    | 04/03/2026 |  qua  |  |
 |   05    | 06/03/2026 |  sex  |           |
 |   06    | 11/03/2026 |  qua  |           |
 |   07    | 13/03/2026 |  sex  |           |

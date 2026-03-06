@@ -6,29 +6,15 @@
 
 #### Tecnologias digitais I
 
-[plano de curso](./2025.2/UFBA/td1/cronograma_td1.md)
-
-
 ### Cimatec
 
-#### Modelagem da Informação da Construção
+#### Modelagem da Informação da Construção 2026.1
+
+[plano de curso](./2026.1/CIMATEC/mic/cronograma_2026_1_mic.md)
+
+[Edital AV1](./2026.1/CIMATEC/mic/av1_edital_mic.md)
 
 
-
-## 2024.2
-
-### CIMATEC
-
-#### REPRESENTAÇÃO DIGITAL DA CONSTRUÇÃO
-
-
-[Plano de curso](./2024.2/CIMATEC/Represetacao_digital_da_construcao/plano_rdc.md)
-
-<!-- [Edital AV1](./2024.2/CIMATEC/Represetacao_digital_da_construcao/av1_edital_rdc.md)
-
-[Edital AV2](./2024.2/CIMATEC/Represetacao_digital_da_construcao/av2_edital_rdc.md)
-
-[Edital AV3](./2024.2/CIMATEC/Represetacao_digital_da_construcao/av3_edital_rdc.md) -->
 ____________________________________________________________
 ____________________________________________________________
 

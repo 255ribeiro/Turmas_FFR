@@ -30,8 +30,6 @@
 
 2/07 Feriado Independência da Bahia
 
-4/07 Último dia letivo do semestre 2026.1
-
 8/07 2a. chamada avaliações 2026.1
 
 9/07 Data limite para publicação de notas do 3o período
@@ -39,3 +37,4 @@
 10 a 16/07 Período provas finais 2026.1
 
 17/07 Data limite para publicação de resultados das provas finais 2026.1
+
