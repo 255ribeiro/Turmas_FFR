@@ -81,4 +81,4 @@ Itens da entrega
  Os trabalhos devem ser enviados em arquivo compactado (.zip, .rar, .7z, .tar.gz) pelo Canvas da disciplina em atividade adequada.
 
 <h4 style="background:lightblue"> Data de entrega</h4>
-   dia 21/09/2025
+   dia 01/04/2026
