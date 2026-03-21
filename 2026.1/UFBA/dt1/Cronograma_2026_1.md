@@ -1,0 +1,52 @@
+# CRONOGRAMA – Semestre 2026.1
+**ARQB94 – TECNOLOGIAS DIGITAIS APLICADAS 1**  
+Professores: Ana Paula Carvalho Pereira e Fernando Ferraz Ribeiro
+
+- **Turma 01** – Segunda e Quarta-feira, 8h50–10h40 – Docente: Ana Paula Carvalho Pereira  
+- **Turma 02** – Segunda e Quarta-feira, 13h00–14h50 – Docente: Ana Paula Carvalho Pereira  
+- **Turma 03** – Segunda-feira, 20h20–22h10 e Sexta-feira, 18h30–20h20 – Docente: Fernando Ferraz Ribeiro  
+
+## 1ª Unidade
+
+| Aula | Data  | Dia | Assunto / Atividade |
+|------|-------|-----|---------------------|
+| 1    | 9/3   | Seg | Apresentação da disciplina: objetivos, conteúdo, metodologia, recursos e bibliografia. Cronograma, atividades e avaliação. Apresentação do professor e alunos. Inscrição no Moodle. |
+| 2    | 13/3  | Sex | Aula 1 – Apresentação estado da arte das tecnologias digitais nas etapas: projetação, documentação e execução. |
+| 3    | 16/3  | Seg | Aula 2 – Conceituação e classificação de modelos; Modelagem numérica (modelos geométricos e procedurais); Usos; e softwares. |
+| 4    | 20/3  | Sex | **(EX1)** Modelagem 3D no AutoCAD (modelagem de caneca). |
+| 5    | 23/3  | Seg | Aula 3 – Formas de modelagem: *form finding*, *form making*, métodos de transformação do modelo geométrico (translação, rotação, espelhamento, escala e *free form*) e de combinação (operações booleanas e blend), modelagem paramétrica, modelagem por varredura, seções transversais. |
+| 6    | 27/3  | Sex | **(EX2)** Captura de dados por fotogrametria (caixas). |
+| 7    | 30/3  | Seg | **(EX2)** Captura de dados por fotogrametria (caixas) – continuação. |
+| 8    | 3/4   | Sex | **(EX3)** Modelagem de edificação usando nuvem de pontos (dada pelo professor) – Quiosque. |
+| 9    | 6/4   | Seg | **(EX3)** Modelagem de edificação usando nuvem de pontos (dada pelo professor) – Quiosque (continuação). |
+| 10   | 10/4  | Sex | Aula 4 – Realidade Mista \| Realidade Virtual \| Realidade Aumentada. |
+| 11   | 13/4  | Seg | **(EX4)** Modelagem pavilhão Blender. |
+| 12   | 17/4  | Sex | **(EX4)** Modelagem pavilhão Blender. |
+| –    | 20/4  | Seg | **Feriado** |
+| 13   | 24/4  | Sex | **(EX4)** Modelagem pavilhão Blender. |
+| 14   | 27/4  | Seg | **(EX4)** Importação do pavilhão para Spatial.io + confecção do vídeo sobre o processo de modelagem. |
+| 15   | 1/5   | Sex | **Feriado** |
+
+## 2ª Unidade
+
+| Aula | Data  | Dia | Assunto / Atividade |
+|------|-------|-----|---------------------|
+| 16   | 8/5   | Sex | Aula 5 – BIM: Conceitos, Características, Ciclo de vida da edificação, Iniciativas BIM. |
+| 18   | 11/5  | Seg | Aula 6 – Modelagem aplicada à arquitetura – Ferramenta REVIT: estrutura de dados (hierarquia dos elementos e seus parâmetros) e visão geral da interface. Modelagem de preexistências (entorno, terreno). Boas práticas de modelagem. |
+| 19   | 15/5  | Sex | **(EX6)** Preparação do terreno a partir de curvas de nível (AutoCAD) – importação no Revit (Gerar superfície). |
+| 20   | 18/5  | Seg | **(EX6)** Modelagem de massa de um quarteirão no Revit. |
+| 21   | 22/5  | Sex | **(EX6)** Modelagem de edifício alto. |
+| 22   | 25/5  | Seg | **(EX6)** Simulações (estudo de sombreamento) utilizando o Revit. |
+| 23   | 29/5  | Sex | **(EX6)** Modelagem de elementos arquitetônicos a partir do modelo de massas. Organização do navegador de projeto – extração de cortes, elevações e perspectivas do quarteirão modelado. |
+| 24   | 1/6   | Seg | Aula 7 – Noções de modelagem de elementos estruturais: sapata, viga, pilar e laje. **(EX7)** Modelar estrutura no Revit. |
+| 25   | 5/6   | Sex | **(EX7)** Modelar estrutura no Revit (continuação). |
+| 26   | 8/6   | Seg | **(EX7)** Exportação da estrutura modelada no Revit para o Augin + Vídeo com visualização no Augin. |
+| 27   | 12/6  | Sex | Aula 8 – Representação Visual do Projeto. |
+| 28   | 15/6  | Seg | **(EX8)** Fazer render com auxílio de IA (estudo de materialidade). |
+| 29   | 19/6  | Sex | **(EX8)** Fazer render com auxílio de IA (estudo de materialidade). |
+| 30   | 22/6  | Seg | **Encerramento da disciplina.** |
+
+**Início das aulas:** 09/03/2026  
+**Fim das aulas:** 11/07/2026
+
+> **OBS.:** Este cronograma poderá ser alterado, de acordo com o andamento dos trabalhos, assim como a distribuição da carga horária diária ou semanal, a depender de necessidades.

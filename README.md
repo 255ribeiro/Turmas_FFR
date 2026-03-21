@@ -1,11 +1,5 @@
 # Turmas FFR
 
-## 2025_2
-
-### UFBA
-
-#### Tecnologias digitais I
-
 ## 2026.1
 
 ### Cimatec
@@ -15,5 +9,11 @@
 [plano de curso](./2026.1/CIMATEC/mic/cronograma_2026_1_mic.md)
 
 [Edital AV1](./2026.1/CIMATEC/mic/av1_edital_mic.md)
+
+### UFBA
+
+## DT1
+
+[cronograma](./2026.1/UFBA/dt1/Cronograma_2026_1.md)
 
 ____________________________________________________________
