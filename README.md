@@ -1,6 +1,10 @@
 # Turmas FFR
 
+-----
+
 ## 2026.1
+
+-----
 
 ### Cimatec
 
@@ -16,10 +20,12 @@
 
 [Edital Av1](2026.1/CIMATEC/mpsd/av1_edital_mpsd.md)
 
+-----
+
 ### UFBA
 
 ## DT1
 
 [cronograma](./2026.1/UFBA/dt1/Cronograma_2026_1.md)
 
-____________________________________________________________
+-----
