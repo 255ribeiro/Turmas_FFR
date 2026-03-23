@@ -28,7 +28,7 @@ CURSO DE ARQUITETURA E URBANISMO
 <h4 style="background:lightblue">Objetivo da avaliação</h4>
 
 1. Exercitar a modelagem paramétrica de volumes arquitetônicos em código;
-2. Compreender o uso de variáveis e operações booleanas na definição de formas edificadas;
+2. Compreender o uso de variáveis e operações de modelagem na definição de formas edificadas;
 3. Explorar o potencial das ferramentas de geração de imagem por Inteligência Artificial como instrumento de visualização e proposta arquitetônica.
 
 ---
@@ -58,32 +58,39 @@ O modelo deve ser inteiramente **paramétrico**: todas as dimensões (largura, p
   - Recuos e balanços
   - Pátios ou vazios internos
   - Rotações ou inclinações de volumes
+- O modelo deve utilizar ao menos **duas operações de modelagem** diferentes, à escolha do grupo. Exemplos: operações booleanas (união, subtração, interseção), extrusão (`extrude`), varredura (`sweep`), transição entre perfis (`loft`), entre outras disponíveis no CadQuery
 - O modelo deve ser visualizado com a biblioteca **cadquery-simpleViewer**
 
 ---
 
 ### 2. Exportação do Modelo
 
-Exporte o modelo final nos seguintes formatos:
+Exporte o modelo final:
 
 ```python
 cq.exporters.export(modelo, "edificio.step")
+# ou
 cq.exporters.export(modelo, "edificio.stl")
 ```
 
-O arquivo `.step` deve ser entregue junto com o código.
+O arquivo exportado deve ser entregue junto com o código.
 
 ---
 
 ### 3. Capturas de Tela do Modelo
 
-A partir do visualizador interativo, ou de imagens geradas pelos arquivos exportados, abertos em softwares de modelagem CAD ou BIM, capture **três imagens** do modelo em ângulos distintos que melhor representem a volumetria proposta. Sugestões de ângulos:
+A partir do visualizador interativo, ou de imagens geradas pelos arquivos exportados abertos em softwares de modelagem CAD ou BIM, capture **três imagens** do modelo em ângulos distintos que melhor representem a volumetria proposta. Sugestões de ângulos:
 
-- Vistas em perspectiva isométrica (ângulo de conjunto) (obrigatória)
+- Vista em perspectiva isométrica (ângulo de conjunto) — **obrigatória**
 - Vistas internas de pátios ou aberturas
 - Vistas com detalhe do coroamento ou embasamento
 
-As imagens devem estar em boa resolução e apresentar o modelo de forma clara, sem eixos visíveis (`visible_axes=None`) e com plano de chão quando apropriado.
+As imagens devem estar em boa resolução e apresentar o modelo de forma clara. O grupo pode escolher livremente a origem das imagens:
+
+- **cadquery-simpleViewer** — diretamente no notebook, usando `visible_axes=None` e plano de chão quando apropriado
+- **Software CAD ou BIM** — importando o arquivo `.step` exportado no Rhino, FreeCAD, Fusion 360, Revit ou similar e realizando renders ou capturas a partir desses ambientes
+
+> 💡 **Dica**: o visualizador do cadquery-simpleViewer é recomendado para **orientar a modelagem** durante o desenvolvimento. Para a geração das imagens finais, abrir o `.step` em um software dedicado pode contornar eventuais problemas de tessellação e produzir imagens com melhor qualidade visual para submissão à IA.
 
 ---
 
@@ -111,7 +118,7 @@ Cada grupo deve gerar pelo menos **três imagens finais** (uma por ângulo captu
 |---|------|---------|
 | 1 | Código Python do modelo | `.ipynb` ou `.py` |
 | 2 | Modelo exportado | `edificio.step` |
-| 3 | Capturas de tela do modelo (3 imagens) | `.png` ou `.jpg` |
+| 3 | Capturas do modelo (3 imagens) — do visualizador ou de software CAD/BIM | `.png` ou `.jpg` |
 | 4 | Imagens submetidas à IA (3 imagens + prompts utilizados) | `.png` / `.jpg` + `.txt` ou `.md` |
 | 5 | Imagens geradas pela IA (mínimo 3) | `.png` ou `.jpg` |
 | 6 | Banner de apresentação da proposta | `.pdf` ou `.png`, formato A2 ou A1 |
@@ -133,7 +140,7 @@ O banner deve conter, no mínimo:
 | Critério | Peso |
 |----------|------|
 | Qualidade e complexidade do modelo CadQuery | 30% |
-| Uso correto de parametrização (variáveis, operações para geração da complexidade das formas) | 20% |
+| Uso correto de parametrização e diversidade das operações de modelagem utilizadas | 20% |
 | Qualidade das capturas e coerência com o modelo | 15% |
 | Qualidade das imagens geradas pela IA e aderência ao volume | 20% |
 | Banner — clareza, organização e completude | 15% |
@@ -165,6 +172,6 @@ grupo_XX/
 
 #### **Data de entrega: 13 de abril de 2026**
 
-#### A entrega fora do prazo não será aceita.
+#### A entrega fora do prazo terá descontos na nota.
 
 ---
