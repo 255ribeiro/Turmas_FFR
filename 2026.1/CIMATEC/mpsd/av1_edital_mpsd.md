@@ -147,6 +147,7 @@ O banner deve conter, no mínimo:
 
 ---
 
+
 <h4 style="background:lightblue">Formato da entrega e envio</h4>
 
 Os trabalhos devem ser enviados em **arquivo compactadao** (zip, rar, 7z. tar.gz ...) pelo Canvas da disciplina, organizados na seguinte estrutura de pastas:
