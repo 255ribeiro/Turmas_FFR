@@ -35,7 +35,7 @@ CURSO DE ARQUITETURA E URBANISMO
 
 <h4 style="background:lightblue">Orientações gerais</h4>
 
-Os trabalhos podem ser feitos de forma **individual ou em grupos de até cinco (5) alunos**. O nome de todos os integrantes do grupo deve constar no início do código, como comentários.
+Os trabalhos podem ser feitos de forma **individual ou em grupos de até cinco (5) alunos**. O nome de todos os integrantes do grupo deve constar no início do código, como comentários ou célula MArkdown no caso de arquivos do google colab.
 
 O código deve ser comentado, demonstrando o entendimento de cada etapa do processo de modelagem.
 
@@ -58,8 +58,8 @@ O modelo deve ser inteiramente **paramétrico**: todas as dimensões (largura, p
   - Recuos e balanços
   - Pátios ou vazios internos
   - Rotações ou inclinações de volumes
-- O modelo deve utilizar ao menos **duas operações de modelagem** diferentes, à escolha do grupo. Exemplos: operações booleanas (união, subtração, interseção), extrusão (`extrude`), varredura (`sweep`), transição entre perfis (`loft`), entre outras disponíveis no CadQuery
-- O modelo deve ser visualizado com a biblioteca **cadquery-simpleViewer**
+<!-- - O modelo deve utilizar ao menos **duas operações de modelagem** diferentes, à escolha do grupo. Exemplos: operações booleanas (união, subtração, interseção), extrusão (`extrude`), varredura (`sweep`), transição entre perfis (`loft`), entre outras disponíveis no CadQuery -->
+
 
 ---
 
@@ -96,7 +96,7 @@ As imagens devem estar em boa resolução e apresentar o modelo de forma clara. 
 
 ### 4. Geração de Imagens com Inteligência Artificial
 
-Utilizando uma ferramenta de geração de imagem por IA **à escolha do grupo** (exemplos: Midjourney, Adobe Firefly, DALL·E, Stable Diffusion, Leonardo.ai, Ideogram, etc.), submeta as três capturas do modelo como referência de forma e proporção.
+Utilizando uma ferramenta de geração de imagem por IA **à escolha do grupo** (exemplos: Gemini, Midjourney, Adobe Firefly, DALL·E, Stable Diffusion, Leonardo.ai, Ideogram, etc.), submeta as três capturas do modelo como referência de forma e proporção.
 
 O **prompt** enviado à IA deve orientar a ferramenta a:
 
