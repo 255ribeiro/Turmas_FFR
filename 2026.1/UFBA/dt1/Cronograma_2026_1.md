@@ -49,7 +49,7 @@ Professores: Ana Paula Carvalho Pereira e Fernando Ferraz Ribeiro
 | 28   | 29/6 | Seg |        **(EX8)** Fazer render com auxílio de IA (estudo de materialidade).                                                                                                                                                                   |
 | -    | 3/7  | Sex | **Ponto Facultativo**                                                                                                                                                                                                                 |
 | 29   | 6/7  | Seg  | **Orientação**                                                                                                                                                                                                        |
-| 30   | 6/7  | Seg | **Encerramento da disciplina**                                                                                                                                                                                                        |
+| 30   | 10/7  | Seg | **Encerramento da disciplina**                                                                                                                                                                                                        |
 
 **Início das aulas:** 09/03/2026  
 **Fim das aulas:** 11/07/2026
