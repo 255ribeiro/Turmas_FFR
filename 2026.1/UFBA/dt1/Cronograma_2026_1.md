@@ -8,43 +8,48 @@ Professores: Ana Paula Carvalho Pereira e Fernando Ferraz Ribeiro
 
 ## 1ª Unidade
 
-| Aula | Data  | Dia | Assunto / Atividade |
-|------|-------|-----|---------------------|
-| 1    | 9/3   | Seg | Apresentação da disciplina: objetivos, conteúdo, metodologia, recursos e bibliografia. Cronograma, atividades e avaliação. Apresentação do professor e alunos. Inscrição no Moodle. |
-| 2    | 13/3  | Sex | Aula 1 – Apresentação estado da arte das tecnologias digitais nas etapas: projetação, documentação e execução. |
-| 3    | 16/3  | Seg | Aula 2 – Conceituação e classificação de modelos; Modelagem numérica (modelos geométricos e procedurais); Usos; e softwares. |
-| 4    | 20/3  | Sex | **(EX1)** Modelagem 3D no AutoCAD (modelagem de caneca). |
-| 5    | 23/3  | Seg | Aula 3 – Formas de modelagem: *form finding*, *form making*, métodos de transformação do modelo geométrico (translação, rotação, espelhamento, escala e *free form*) e de combinação (operações booleanas e blend), modelagem paramétrica, modelagem por varredura, seções transversais. |
-| 6    | 27/3  | Sex | **(EX2)** Captura de dados por fotogrametria (caixas). |
-| 7    | 30/3  | Seg | **(EX2)** Captura de dados por fotogrametria (caixas) – continuação. |
-| 8    | 3/4   | Sex | **(EX3)** Modelagem de edificação usando nuvem de pontos (dada pelo professor) – Quiosque. |
-| 9    | 6/4   | Seg | **(EX3)** Modelagem de edificação usando nuvem de pontos (dada pelo professor) – Quiosque (continuação). |
-| 10   | 10/4  | Sex | Aula 4 – Realidade Mista \| Realidade Virtual \| Realidade Aumentada. |
-| 11   | 13/4  | Seg | **(EX4)** Modelagem pavilhão Blender. |
-| 12   | 17/4  | Sex | **(EX4)** Modelagem pavilhão Blender. |
-| –    | 20/4  | Seg | **Feriado** |
-| 13   | 24/4  | Sex | **(EX4)** Modelagem pavilhão Blender. |
-| 14   | 27/4  | Seg | **(EX4)** Importação do pavilhão para Spatial.io + confecção do vídeo sobre o processo de modelagem. |
-| 15   | 1/5   | Sex | **Feriado** |
+| Aula | Data | Dia | Assunto / Atividade                                                                                                                                                                                                                                                                      |
+| ---- | ---- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | 9/3  | Seg | Apresentação da disciplina: objetivos, conteúdo, metodologia, recursos e bibliografia. Cronograma, atividades e avaliação. Apresentação do professor e alunos. Inscrição no Moodle.                                                                                                      |
+| 2    | 13/3 | Sex | Aula 1 – Apresentação estado da arte das tecnologias digitais nas etapas: projetação, documentação e execução.                                                                                                                                                                           |
+| 3    | 16/3 | Seg | Aula 2 – Conceituação e classificação de modelos; Modelagem numérica (modelos geométricos e procedurais); Usos; e softwares.                                                                                                                                                             |
+| 4    | 20/3 | Sex | **(EX1)** Modelagem 3D no AutoCAD (modelagem de caneca).                                                                                                                                                                                                                                 |
+| 5    | 23/3 | Seg | Aula 3 – Formas de modelagem: *form finding*, *form making*, métodos de transformação do modelo geométrico (translação, rotação, espelhamento, escala e *free form*) e de combinação (operações booleanas e blend), modelagem paramétrica, modelagem por varredura, seções transversais. |
+| 6    | 27/3 | Sex | **(EX2)** Captura de dados por fotogrametria (caixas).                                                                                                                                                                                                                                   |
+| 7    | 30/3 | Seg | **(EX2)** Captura de dados por fotogrametria (caixas) – continuação.                                                                                                                                                                                                                     |
+| -    | 3/4  | Sex | **Feriado**                                                                                                                                                                                                                                                                              |
+| 8    | 6/4  | Seg | **(EX3)** Modelagem de edificação usando nuvem de pontos (dada pelo professor) – Quiosque.                                                                                                                                                                                               |
+| 9    | 10/4 | Sex | **(EX3)** Modelagem de edificação usando nuvem de pontos (dada pelo professor) – Quiosque (continuação).                                                                                                                                                                                 |
+| 10   | 13/4 | Seg | Aula 4 – Realidade Mista \| Realidade Virtual \| Realidade Aumentada.                                                                                                                                                                                                                    |
+| 11   | 17/4 | Sex | **(EX4)** Modelagem pavilhão Blender.                                                                                                                                                                                                                                                    |
+| -    | 20/4 | Seg | **Feriado**                                                                                                                                                                                                                                                                              |
+| 12   | 24/4 | Sex | **(EX4)** Modelagem pavilhão Blender.                                                                                                                                                                                                                                                    |
+| 13   | 27/4 | Seg | **(EX4)** Modelagem pavilhão Blender.                                                                                                                                                                                                                                                    |
+| 14   | 1/5  | Sex | **Feriado**  Dia do trabalho                                                                                                                                                                                                                                                                            |
+| 15   | 4/5  | Seg | **(EX4)** Importação do pavilhão para Spatial.io + confecção do vídeo sobre o processo de modelagem.                                                                                                                                                                                     |
 
 ## 2ª Unidade
 
-| Aula | Data  | Dia | Assunto / Atividade |
-|------|-------|-----|---------------------|
-| 16   | 8/5   | Sex | Aula 5 – BIM: Conceitos, Características, Ciclo de vida da edificação, Iniciativas BIM. |
-| 18   | 11/5  | Seg | Aula 6 – Modelagem aplicada à arquitetura – Ferramenta REVIT: estrutura de dados (hierarquia dos elementos e seus parâmetros) e visão geral da interface. Modelagem de preexistências (entorno, terreno). Boas práticas de modelagem. |
-| 19   | 15/5  | Sex | **(EX6)** Preparação do terreno a partir de curvas de nível (AutoCAD) – importação no Revit (Gerar superfície). |
-| 20   | 18/5  | Seg | **(EX6)** Modelagem de massa de um quarteirão no Revit. |
-| 21   | 22/5  | Sex | **(EX6)** Modelagem de edifício alto. |
-| 22   | 25/5  | Seg | **(EX6)** Simulações (estudo de sombreamento) utilizando o Revit. |
-| 23   | 29/5  | Sex | **(EX6)** Modelagem de elementos arquitetônicos a partir do modelo de massas. Organização do navegador de projeto – extração de cortes, elevações e perspectivas do quarteirão modelado. |
-| 24   | 1/6   | Seg | Aula 7 – Noções de modelagem de elementos estruturais: sapata, viga, pilar e laje. **(EX7)** Modelar estrutura no Revit. |
-| 25   | 5/6   | Sex | **(EX7)** Modelar estrutura no Revit (continuação). |
-| 26   | 8/6   | Seg | **(EX7)** Exportação da estrutura modelada no Revit para o Augin + Vídeo com visualização no Augin. |
-| 27   | 12/6  | Sex | Aula 8 – Representação Visual do Projeto. |
-| 28   | 15/6  | Seg | **(EX8)** Fazer render com auxílio de IA (estudo de materialidade). |
-| 29   | 19/6  | Sex | **(EX8)** Fazer render com auxílio de IA (estudo de materialidade). |
-| 30   | 22/6  | Seg | **Encerramento da disciplina.** |
+| Aula | Data | Dia | Assunto / Atividade                                                                                                                                                                                                                   |
+| ---- | ---- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16   | 8/5  | Sex | Aula 5 – BIM: Conceitos, Características, Ciclo de vida da edificação, Iniciativas BIM.                                                                                                                                               |
+| 17   | 11/5 | Seg | Aula 6 – Modelagem aplicada à arquitetura – Ferramenta REVIT: estrutura de dados (hierarquia dos elementos e seus parâmetros) e visão geral da interface. Modelagem de preexistências (entorno, terreno). Boas práticas de modelagem. |
+| 18   | 15/5 | Sex | **(EX6)** Preparação do terreno a partir de curvas de nível (AutoCAD) – importação no Revit (Gerar superfície).                                                                                                                       |
+| 19   | 18/5 | Seg | **(EX6)** Modelagem de massa de um quarteirão no Revit.                                                                                                                                                                               |
+| 20   | 22/5 | Sex | **(EX6)** Modelagem de edifício alto.                                                                                                                                                                                                 |
+| 21   | 25/5 | Seg | **(EX6)** Simulações (estudo de sombreamento) utilizando o Revit.                                                                                                                                                                     |
+| 22   | 29/5 | Sex | **(EX6)** Modelagem de elementos arquitetônicos a partir do modelo de massas. Organização do navegador de projeto – extração de cortes, elevações e perspectivas do quarteirão modelado.                                              |
+| 23   | 1/6  | Seg | Aula 7 – Noções de modelagem de elementos estruturais: sapata, viga, pilar e laje. **(EX7)** Modelar estrutura no Revit.                                                                                                              |
+| -    | 5/6  | Sex | **Ponto Facultativo**                                                                                                                                                                                                                   |
+| 24   | 8/6  | Seg | **(EX7)** Modelar estrutura no Revit (continuação).                                                                                                                                                                                   |
+| 25   | 12/6 | Sex | **(EX7)** Exportação da estrutura modelada no Revit para o Augin + Vídeo com visualização no Augin.                                                                                                                                   |
+| 26   | 15/6 | Seg | Aula 8 – Representação Visual do Projeto.                                                                                                                                                                                             |
+| 27   | 19/6 | Sex | **(EX8)** Fazer render com auxílio de IA (estudo de materialidade).                                                                                                                                                                   |
+| 29   | 22/6 | Seg | **Ponto Facultativo** (Recesso São João)                                                                                                                                                                                       |
+| 28   | 29/6 | Seg |        **(EX8)** Fazer render com auxílio de IA (estudo de materialidade).                                                                                                                                                                   |
+| -    | 3/7  | Sex | **Ponto Facultativo**                                                                                                                                                                                                                 |
+| 29   | 6/7  | Seg  | **Orientação**                                                                                                                                                                                                        |
+| 30   | 6/7  | Seg | **Encerramento da disciplina**                                                                                                                                                                                                        |
 
 **Início das aulas:** 09/03/2026  
 **Fim das aulas:** 11/07/2026
