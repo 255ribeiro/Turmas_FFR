@@ -20,6 +20,8 @@
 
 [Edital Av1](2026.1/CIMATEC/mpsd/av1_edital_mpsd.md)
 
+[Edital AV2](2026.1/CIMATEC/mpsd/cronograma_2026_1_mpsd.md)
+
 -----
 
 ### UFBA
