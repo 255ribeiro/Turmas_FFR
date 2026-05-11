@@ -87,6 +87,6 @@ _______________
 
 #### A data de entrega
 
-Apresentações nos dias 26/05 e 28/05
+Apresentações nos dias 25/05 e 27/05
 
 _______________
