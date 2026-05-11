@@ -85,6 +85,8 @@ As equipes devem apresentar:
 
 _______________
 
-#### A data de entrega deve ser consultada no cronograma da disciplina.
+#### A data de entrega
+
+Apresentações nos dias 26/05 e 28/05
 
 _______________
