@@ -48,9 +48,9 @@ Os discentes devem se dividir em 9 grupos com até 5 integrantes cada. Cada um d
 
   1. Torre deformada com o Kangaroo2.
   1. Elemento construtivo com estrutura *waffle*
-  1. Elemento construtivo ou estudo de arquitetura utilizando atratores
+  1. Elemento construtivo ou estudo de arquitetura utilizando atratores(Attractors)
   1. Elemento construtivo ou estudo de arquitetura utilizando fields
-  1. Elemento construtivo ou estudo de arquitetura baseado em diagramas de voronoi 3D
+  1. Elemento construtivo ou estudo de arquitetura baseado em diagramas de Voronoi 3D
   1. Elemento construtivo ou estudo de arquitetura baseado em *metaballs*
   1. Elemento construtivo ou estudo de arquitetura utilizando morph
   1. Painelização (paneling) de formas orgânicas
@@ -64,11 +64,13 @@ As equipes devem apresentar um algoritmo, criado por eles ou reproduzido de algu
 
 Existem sobreposições entre os temas (e.g. algoritmos que tratam de diagramas de voronoi e atratores). Neste caso a equipe deve focar sua explicação no tema sorteado. Podendo apenas citar o outro tema associado.
 
-As equipes devem se organizar par que não apresentem o mesmo algoritmo. Sendo as apresentações sobre o mesmo tema ou sobre temas diferentes.
+As equipes devem se organizar para que não apresentem o mesmo algoritmo. Sendo as apresentações sobre o mesmo tema ou sobre temas diferentes.
 
 <h4 style="background:lightblue">
 Apresentação do trabalho
 </h4>
+
+A avaliação se dará por meio de apresentações das equipes (seminário) sobre os algoritmos estudados.
 
 As equipes devem apresentar:
 
