@@ -2,6 +2,18 @@
 
 -----
 
+## 2026.2
+
+-----
+
+### Cimatec
+
+#### Representação digital da construção
+
+[av 1](2026.2/CIMATEC/Represetacao_digital_da_construcao/av1_edital_rdc.md)
+
+-----
+
 ## 2026.1
 
 -----
@@ -35,3 +47,6 @@
 [cronograma](./2026.1/UFBA/topo/Cronograma_introducao_a_topografia_quintas_2026_1.md)
 
 -----
+
+
+
