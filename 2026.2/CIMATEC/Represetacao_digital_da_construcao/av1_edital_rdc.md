@@ -26,9 +26,7 @@ CURSO DE ARQUITETURA E URBANISMO
 
 <br>
 
----
-
-
+-----
 
 <h4 style="background:lightblue">
 
@@ -40,14 +38,7 @@ Objetivo da avaliação
 2. Entender fundamentos dos programas CAD;
 3. Aplicar os conhecimentos teóricos e práticos abordados na disciplina.
 
-
-
-
-
-<h4 style="background:lightblue">
-Orientações gerais
-
-</h4>
+<h4 style="background:lightblue"> Orientações gerais </h4>
 
 A avaliação poderá ser desenvolvida individualmente ou em dupla.
 
@@ -59,6 +50,7 @@ Itens da entrega
 </h4>
 
 1. O jogo de plantas deve conter no mínimo:
+
 <br>
 
     - Planta Baixa dos 2 pavimentos;
@@ -82,24 +74,21 @@ Itens da entrega
 
     - blocos para mostrar os layouts dos ambientes
 
-
 <h4 style="background:lightblue"> Formato da entrega e envio</h4>
 
 O envio deve ser feito em arquivo compactado (ZIP, RAR, TAR.GZ ou 7Z) contendo:
 
- - Arquivo(s) .DWG com os desenhos.
+- Arquivo(s) .DWG com os desenhos.
   
- - Arquivo(s) .PDF com os desenhos.
+- Arquivo(s) .PDF com os desenhos.
   
- - Arquivo(s) .CTB utilizado(s).
-
+- Arquivo(s) .CTB utilizado(s).
 
  Os trabalhos devem ser enviados pelo Canvas da disciplina.
 
 <h4 style="background:lightblue"> Data de entrega</h4>
 
-Os prazos devem ser consultados no cronograma da disciplina.
-
+20/09/2026
 
 <h4 style="background:lightblue">Observações :</h4>
 
@@ -109,33 +98,23 @@ Não é permitido importar o PDF como arquivo vetorial
 
 Outros conjuntos de plantas equivalentes podem ser apresentadas desde que aprovadas previamente pelo professor.
 
-----------------------------
-
-----------------------------
-
+-----
+-----
 
 <h4 style="background:lightblue">Arquivos Base :</h4>
 
 [Planta Baixa térreo](https://github.com/255ribeiro/Turmas_FFR/raw/master/2026.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-pav_terreo.pdf)
 
-
 [Planta Baixa pavimento superior](https://github.com/255ribeiro/Turmas_FFR/raw/master/2026.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-pav_sup.pdf)
 
 [Corte AA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2026.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-corteaa.pdf)
 
-
 [FACHADA SUL](https://github.com/255ribeiro/Turmas_FFR/raw/master/2026.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-fch_sul.pdf)
-
 
 [COBERTURA](https://github.com/255ribeiro/Turmas_FFR/raw/master/2026.2/CIMATEC/Represetacao_digital_da_construcao/REP_DIG_CONS/CASA_2024_2-cobertura.pdf)
 
+-----
 
----------------------------------
+-----
 
-----------------------------------
-
-
-<!-- [Guia de Layers](av1_guia_de_layers.md) -->
-
-
-
+[Guia de Layers](av1_guia_de_layers.md)
