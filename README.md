@@ -12,6 +12,14 @@
 
 [av 1](2026.2/CIMATEC/Represetacao_digital_da_construcao/av1_edital_rdc.md)
 
+### UFBA
+
+#### Introdução à topografia
+
+#### Tecnologias digitais aplicadas I
+
+#### Desenho e meios de representação
+
 -----
 
 ## 2026.1
