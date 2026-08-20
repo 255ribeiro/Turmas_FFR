@@ -53,11 +53,11 @@ Itens da entrega
 
 <br>
 
-    - Planta Baixa dos 2 pavimentos;
-    - Corte A;
-    - <s>Corte B;</s>
-    - <s>As quatro fachadas;</s>
-    - Uma planta de cobertura mostrando os limites do tereno.
+- Planta Baixa dos 2 pavimentos;
+- Corte A;
+- <s>Corte B;</s>
+- <s>As quatro fachadas;</s>
+- Uma planta de cobertura mostrando os limites do tereno.
 <br>
 
 1. Os desenhos, a serem enviados em formato PDF e DWG devem apresentar:
