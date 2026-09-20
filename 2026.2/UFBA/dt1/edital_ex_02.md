@@ -4,9 +4,9 @@
 
 <div style="align: top;">
 
-<!-- <span style="float: left;">
-<img src="../../../figs_gerais/Universidade_SENAI_CIMATEC.png" width="150">
-</span> -->
+<span style="float: left;">
+<img src="../../../figs_gerais/ufba_faufba_logo.png" width="150">
+</span>
 <span style="float: right;"><br>
 UNIVERSIDADE FEDERAL DA BAHIA <br>
 FACULDADE DE ARQUITETURA

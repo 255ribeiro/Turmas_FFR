@@ -18,6 +18,8 @@
 
 #### Tecnologias digitais aplicadas I
 
+[edital exercício 02](2026.2/UFBA/dt1/edital_ex_02.md)
+
 #### Desenho e meios de representação
 
 -----
