@@ -61,7 +61,7 @@ Ao finalizar a atividade, cada dupla deverá entregar o arquivo do projeto 3DF Z
 1. Criar uma pasta única com três subpastas denominadas **ARQUIVO**, **FOTOS DO OBJETO** e **MALHA**.
 2. Salvar o arquivo `.ZEP` na pasta **ARQUIVO**.
 3. Salvar as 50 fotografias do objeto utilizado na pasta **FOTOS DO OBJETO**.
-4. Salvar os arquivos `.OBJ`, `.MLT` e `.blend` na pasta **MALHA**.
+4. Salvar os arquivos `.OBJ`, `.MLT`, `.JPG` e `.blend` na pasta **MALHA**.
 5. Criar um arquivo compactado (`.zip`, `.rar`, `.7z` ou `.tar.gz`) contendo todas as pastas.
 
 ```text
@@ -75,6 +75,7 @@ equipe_XX/
 └── MALHA/
 	├── modelo.obj
 	├── modelo.mtl
+	├── modelo.jpg
 	└── modelo.blend
 ```
 
