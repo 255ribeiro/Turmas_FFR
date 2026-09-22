@@ -91,8 +91,8 @@ Substituir os nomes do exemplo pelos nomes e sobrenomes dos integrantes da equip
 
 <h4 style="background:lightblue">Critérios e observações</h4>
 
-- A atividade deve ser realizada em dupla.
-- Cada dupla deve gerar seu próprio modelo de caixa.
+- A atividade deve ser realizada individualmente ou em equipes de até três integrantes.
+- Cada equipe deve gerar seu próprio modelo de caixa.
 - O arquivo entregue deve conter a nuvem de pontos e a malha triangular com textura.
 
 O exercício pretende reforçar a prática de captura e processamento de dados por fotogrametria, aprimorando habilidades de documentação visual e modelagem 3D.
