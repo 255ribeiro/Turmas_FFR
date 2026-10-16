@@ -61,6 +61,3 @@
 [cronograma](./2026.1/UFBA/topo/Cronograma_introducao_a_topografia_quintas_2026_1.md)
 
 -----
-
-
-
