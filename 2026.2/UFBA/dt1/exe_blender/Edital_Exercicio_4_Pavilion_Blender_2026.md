@@ -52,24 +52,28 @@ Cada estudante deverá modelar um espaço expositivo, como um pavilhão, utiliza
 
 <h4 style="background:lightblue">Itens da entrega</h4>
 
-Ao finalizar a atividade, cada estudante deverá entregar os seguintes arquivos no AVA da disciplina:
+Ao finalizar a atividade, cada estudante deverá enviar **um único arquivo compactado** pelo AVA da disciplina. Esse arquivo deverá conter:
 
 1. O modelo do pavilhão em formato Blender (`.blend`), com a modelagem, os modificadores, os materiais ou texturas e a iluminação.
-2. O vídeo do processo de modelagem em formato MP4 (`.mp4`).
+2. O vídeo do processo de modelagem em formato MP4 (`.mp4`) **ou**, caso o vídeo esteja publicado no YouTube, um arquivo de texto (`.txt`, `.doc`, `.docx` ou `.pdf`) contendo o link para o vídeo.
 
-**Nomenclatura dos arquivos:**
+O arquivo compactado deve conter o modelo e uma das opções para o vídeo: o próprio arquivo MP4 ou um documento com o link do YouTube. Não enviar os itens separadamente no AVA.
 
-```text
-EX4_Modelo_Blender_Nome_Sobrenome.blend
-EX4_Video_Nome_Sobrenome.mp4
-```
-
-Substituir `Nome_Sobrenome` pelo nome e sobrenome do estudante. Exemplos:
+**Nomenclatura sugerida para o arquivo compactado:**
 
 ```text
-EX4_Modelo_Blender_Maria_Silva.blend
-EX4_Video_Maria_Silva.mp4
+EX4_Pavilhao_Nome_Sobrenome.zip
 ```
+
+Substituir `Nome_Sobrenome` pelo nome e sobrenome do estudante. Exemplo de organização quando o vídeo for enviado por link:
+
+```text
+EX4_Pavilhao_Maria_Silva.zip
+├── EX4_Modelo_Blender_Maria_Silva.blend
+└── EX4_Video_Maria_Silva(.mp4 ou arquivo texto)
+```
+
+O arquivo com o link deve conter um endereço válido e acessível para visualização do vídeo.
 
 ---
 
