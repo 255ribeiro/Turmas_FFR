@@ -1,37 +1,87 @@
-# **EDITAL - EXERCÍCIO 4**
+# EXERCÍCIO 04: Edital
 
-## Modelagem de Pavilhão no Blender (Valor: 5,0 pontos)
+---
 
-### 1 OBJETIVO
+<div style="align: top;">
 
-Este exercício tem como objetivo aplicar conhecimentos de modelagem 3D utilizando o Blender. Os estudantes irão praticar o fluxo de trabalho completo de modelagem, direta e paramétrica, bem como documentar o processo em vídeo para refletir sobre desafios e soluções encontradas ao longo do desenvolvimento.
+<span style="float: left;">
+<img src="../../../../figs_gerais/ufba_faufba_logo.png" width="150">
+</span>
+<span style="float: right;"><br>
+UNIVERSIDADE FEDERAL DA BAHIA <br>
+FACULDADE DE ARQUITETURA
+</span>
 
-### 2 DESCRIÇÃO DA ATIVIDADE
+</div>
 
-Cada estudante deverá modelar um espaço expositivo, como um pavilhão, utilizando o Blender e criar um vídeo documentando todas as etapas do processo de modelagem, incluindo problemas e soluções.
+<br><br><br><br><br><br>
 
-### 3 INSTRUÇÕES PARA MODELAGEM E APRESENTAÇÃO
+<div>
+	<span style="float: left;">Docente: Prof. Dr. Fernando Ferraz Ribeiro</span>
+	<span style="float: right;">Semestre: 2026.2</span>
+</div>
 
-- Modelagem no Blender:
+<br>
 
-  - Utilizar as ferramentas do Blender para criar um pavilhão de exposição, explorando formas, volumes e detalhes arquitetônicos (utilizar no mínimo 4 modificadores a sua escolha).
+---
 
-  - Aplicar texturas e iluminação
+<h5>
+ Modelagem de pavilhão no Blender (Valor: 5,0 pontos)
+</h5>
 
-## **4 ENTREGA DOS ARQUIVOS**
+<h4 style="background:lightblue">Objetivo da avaliação</h4>
 
-Ao finalizar a atividade, cada estudante deverá salvar os arquivos conforme a seguinte nomenclatura:
+Este exercício tem como objetivo aplicar conhecimentos de modelagem 3D utilizando o Blender. Os estudantes irão praticar o fluxo de trabalho completo de modelagem, direta e paramétrica, bem como documentar o processo em vídeo para refletir sobre os desafios e as soluções encontrados ao longo do desenvolvimento.
 
-Modelo do Pavilhão (Arquivo Blender): EX4_Modelo_Blender_Nome_Sobrenome (Exemplo: EX4_Modelo_Blender_Maria_Silva.blend)
+---
 
-Vídeo do Processo (Arquivo MP4): EX4_Video_Nome_Sobrenome.mp4 (Exemplo: EX4_Video_Maria_Silva.mp4)
+<h4 style="background:lightblue">Descrição da atividade</h4>
 
-Os arquivos finalizados devem ser postados no AVA da disciplina para avaliação.
+Cada estudante deverá modelar um espaço expositivo, como um pavilhão, utilizando o Blender e criar um vídeo documentando todas as etapas do processo de modelagem, incluindo os problemas encontrados e as soluções adotadas.
 
-## **6 OBSERVAÇÕES**
+---
 
-A atividade deve ser desenvolvida individualmente, permitindo que cada estudante crie seu próprio pavilhão e explore a experiência de apresentação em realidade virtual.
+<h4 style="background:lightblue">Instruções para modelagem e apresentação</h4>
+
+- **Modelagem no Blender:** criar um pavilhão de exposição explorando formas, volumes e detalhes arquitetônicos.
+- **Modificadores:** utilizar no mínimo quatro modificadores, à escolha do estudante.
+- **Materiais e iluminação:** aplicar materiais ou texturas e configurar a iluminação da cena.
+- **Vídeo do processo:** registrar as etapas da modelagem, apresentando o desenvolvimento do projeto, os desafios encontrados e as soluções adotadas.
+
+---
+
+<h4 style="background:lightblue">Itens da entrega</h4>
+
+Ao finalizar a atividade, cada estudante deverá entregar os seguintes arquivos no AVA da disciplina:
+
+1. O modelo do pavilhão em formato Blender (`.blend`), com a modelagem, os modificadores, os materiais ou texturas e a iluminação.
+2. O vídeo do processo de modelagem em formato MP4 (`.mp4`).
+
+**Nomenclatura dos arquivos:**
+
+```text
+EX4_Modelo_Blender_Nome_Sobrenome.blend
+EX4_Video_Nome_Sobrenome.mp4
+```
+
+Substituir `Nome_Sobrenome` pelo nome e sobrenome do estudante. Exemplos:
+
+```text
+EX4_Modelo_Blender_Maria_Silva.blend
+EX4_Video_Maria_Silva.mp4
+```
+
+---
+
+<h4 style="background:lightblue">Critérios e observações</h4>
+
+- A atividade deve ser desenvolvida individualmente, permitindo que cada estudante crie seu próprio pavilhão.
+- O modelo deve utilizar no mínimo quatro modificadores e apresentar materiais ou texturas e iluminação.
+- O vídeo deve documentar o processo de modelagem, incluindo os desafios e as soluções encontrados.
+- A proposta também incentiva a exploração da apresentação do projeto em realidade virtual.
 
 O exercício reforça as habilidades de modelagem 3D e integração de projetos arquitetônicos com ferramentas de realidade virtual, incentivando a criatividade e a resolução de problemas.
 
-Bom trabalho!
+---
+
+#### **BOM TRABALHO!**
