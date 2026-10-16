@@ -20,7 +20,7 @@
 
 [edital exercício 02](2026.2/UFBA/dt1/edital_ex_02.md)
 
-[Edital Modelagem Blender](<2026.2/UFBA/dt1/exe_blender/Edital_Exercicio_4_Pavilhão(Blender 2026).md>)
+[Edital Blender](2026.2/UFBA/dt1/exe_blender/Edital_Exercicio_4_Pavilion_Blender_2026.md)
 
 [Passo a passo modelagem Blender](2026.2/UFBA/dt1/exe_blender/Passo_a_passo_Modelagem_Blender_extracted.pdf)
 
